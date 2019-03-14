@@ -1,0 +1,1576 @@
+E:\Attendence System\Attendence System\bin\Debug\Attendence System.exe.config
+E:\Student\Attendence System\Attendence System\bin\Debug\Attandance.mdb
+E:\Student\Attendence System\Attendence System\bin\Debug\Attendence System.exe.config
+E:\Student\Attendence System\Attendence System\bin\Debug\Attendence System.exe
+E:\Student\Attendence System\Attendence System\bin\Debug\Attendence System.pdb
+E:\Student\Attendence System\Attendence System\obj\Debug\ResolveAssemblyReference.cache
+E:\Student\Attendence System\Attendence System\obj\Debug\Attendence_System.Form2.resources
+E:\Student\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendence.resources
+E:\Student\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDeoartment.resources
+E:\Student\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday.resources
+E:\Student\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave.resources
+E:\Student\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLogin.resources
+E:\Student\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary.resources
+E:\Student\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale.resources
+E:\Student\Attendence System\Attendence System\obj\Debug\Attendence_System.frmsplash.resources
+E:\Student\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking.resources
+E:\Student\Attendence System\Attendence System\obj\Debug\Attendence_System.Properties.Resources.resources
+E:\Student\Attendence System\Attendence System\obj\Debug\Attendence System.csproj.GenerateResource.Cache
+E:\Student\Attendence System\Attendence System\obj\Debug\Attendence System.exe
+E:\Student\Attendence System\Attendence System\obj\Debug\Attendence System.pdb
+E:\Student\Attendence System\Attendence System\obj\Debug\Attendence_System.MDIParent1.resources
+E:\Student\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee.resources
+E:\Student\Attendence System\Attendence System\obj\Debug\Attendence_System.frmChangePassword.resources
+E:\Student\Attendence System\Attendence System\obj\Debug\Attendence_System.frmCreateNewUser.resources
+D:\STUDENT\Attendence System\Attendence System\bin\Debug\Attandance.mdb
+D:\STUDENT\Attendence System\Attendence System\bin\Debug\Attendence System.exe.config
+D:\STUDENT\Attendence System\Attendence System\bin\Debug\Attendence System.exe
+D:\STUDENT\Attendence System\Attendence System\bin\Debug\Attendence System.pdb
+D:\STUDENT\Attendence System\Attendence System\obj\Debug\ResolveAssemblyReference.cache
+D:\STUDENT\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee.resources
+D:\STUDENT\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendence.resources
+D:\STUDENT\Attendence System\Attendence System\obj\Debug\Attendence_System.frmChangePassword.resources
+D:\STUDENT\Attendence System\Attendence System\obj\Debug\Attendence_System.frmCreateNewUser.resources
+D:\STUDENT\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday.resources
+D:\STUDENT\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave.resources
+D:\STUDENT\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLogin.resources
+D:\STUDENT\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary.resources
+D:\STUDENT\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale.resources
+D:\STUDENT\Attendence System\Attendence System\obj\Debug\Attendence_System.frmsplash.resources
+D:\STUDENT\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking.resources
+D:\STUDENT\Attendence System\Attendence System\obj\Debug\Attendence_System.MDIParent1.resources
+D:\STUDENT\Attendence System\Attendence System\obj\Debug\Attendence_System.Properties.Resources.resources
+D:\STUDENT\Attendence System\Attendence System\obj\Debug\Attendence System.csproj.GenerateResource.Cache
+D:\STUDENT\Attendence System\Attendence System\obj\Debug\Attendence System.exe
+D:\STUDENT\Attendence System\Attendence System\obj\Debug\Attendence System.pdb
+D:\STUDENT\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendance_List.resources
+D:\STUDENT\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment_List.resources
+D:\STUDENT\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment.resources
+D:\STUDENT\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee_List.resources
+D:\STUDENT\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday_List.resources
+D:\STUDENT\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave_List.resources
+D:\STUDENT\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary_List.resources
+D:\STUDENT\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking_List.resources
+D:\STUDENT\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale_List.resources
+D:\STUDENT\Attendence System\Attendence System\bin\Debug\Database1.mdf
+D:\STUDENT\Attendence System\Attendence System\bin\Debug\Database1_log.ldf
+J:\Attendence System\Attendence System\bin\Debug\Attendence System.exe.config
+J:\Attendence System\Attendence System\obj\Debug\Attendence System.exe
+J:\Attendence System\Attendence System\obj\Debug\Attendence System.pdb
+E:\My Report\Attendence System\Attendence System\bin\Debug\Attendence System.exe.config
+E:\My Report\Attendence System\Attendence System\obj\Debug\Attendence System.exe
+E:\My Report\Attendence System\Attendence System\obj\Debug\Attendence System.pdb
+G:\Attendence System\Attendence System\bin\Debug\Attendence System.exe.config
+G:\Attendence System\Attendence System\obj\Debug\Attendence System.exe
+G:\Attendence System\Attendence System\obj\Debug\Attendence System.pdb
+I:\Attendence System\Attendence System\bin\Debug\Attendence System.exe.config
+I:\Attendence System\Attendence System\obj\Debug\Attendence System.exe
+I:\Attendence System\Attendence System\obj\Debug\Attendence System.pdb
+I:\Attendence System\Attendence System\bin\Debug\Attandance.mdb
+I:\Attendence System\Attendence System\bin\Debug\Database1.mdf
+I:\Attendence System\Attendence System\bin\Debug\Database1_log.ldf
+I:\Attendence System\Attendence System\bin\Debug\Attendence System.exe
+I:\Attendence System\Attendence System\bin\Debug\Attendence System.pdb
+I:\Attendence System\Attendence System\obj\Debug\ResolveAssemblyReference.cache
+I:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendance_List.resources
+I:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment_List.resources
+I:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee.resources
+I:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendence.resources
+I:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmChangePassword.resources
+I:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmCreateNewUser.resources
+I:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment.resources
+I:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee_List.resources
+I:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday.resources
+I:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday_List.resources
+I:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave.resources
+I:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave_List.resources
+I:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLogin.resources
+I:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary.resources
+I:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary_List.resources
+I:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale.resources
+I:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmsplash.resources
+I:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking.resources
+I:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking_List.resources
+I:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale_List.resources
+I:\Attendence System\Attendence System\obj\Debug\Attendence_System.MDIParent1.resources
+I:\Attendence System\Attendence System\obj\Debug\Attendence_System.Properties.Resources.resources
+I:\Attendence System\Attendence System\obj\Debug\Attendence System.csproj.GenerateResource.Cache
+D:\STUDENT\Aarti\Attendence System\Attendence System\bin\Debug\Attendence System.exe.config
+D:\STUDENT\Aarti\Attendence System\Attendence System\obj\Debug\Attendence System.exe
+D:\STUDENT\Aarti\Attendence System\Attendence System\obj\Debug\Attendence System.pdb
+D:\STUDENT\Aarti\Attendence System\Attendence System\obj\Debug\ResolveAssemblyReference.cache
+D:\STUDENT\Aarti\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendance_List.resources
+D:\STUDENT\Aarti\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment_List.resources
+D:\STUDENT\Aarti\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee.resources
+D:\STUDENT\Aarti\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendence.resources
+D:\STUDENT\Aarti\Attendence System\Attendence System\obj\Debug\Attendence_System.frmChangePassword.resources
+D:\STUDENT\Aarti\Attendence System\Attendence System\obj\Debug\Attendence_System.frmCreateNewUser.resources
+D:\STUDENT\Aarti\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment.resources
+D:\STUDENT\Aarti\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee_List.resources
+D:\STUDENT\Aarti\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday.resources
+D:\STUDENT\Aarti\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday_List.resources
+D:\STUDENT\Aarti\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave.resources
+D:\STUDENT\Aarti\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave_List.resources
+D:\STUDENT\Aarti\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLogin.resources
+D:\STUDENT\Aarti\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary.resources
+D:\STUDENT\Aarti\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary_List.resources
+D:\STUDENT\Aarti\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale.resources
+D:\STUDENT\Aarti\Attendence System\Attendence System\obj\Debug\Attendence_System.frmsplash.resources
+D:\STUDENT\Aarti\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking.resources
+D:\STUDENT\Aarti\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking_List.resources
+D:\STUDENT\Aarti\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale_List.resources
+D:\STUDENT\Aarti\Attendence System\Attendence System\obj\Debug\Attendence_System.MDIParent1.resources
+D:\STUDENT\Aarti\Attendence System\Attendence System\obj\Debug\Attendence_System.Properties.Resources.resources
+D:\STUDENT\Aarti\Attendence System\Attendence System\obj\Debug\Attendence System.csproj.GenerateResource.Cache
+D:\STUDENT\Aarti\Attendence System\Attendence System\bin\Debug\Attandance.mdb
+D:\STUDENT\Aarti\Attendence System\Attendence System\bin\Debug\Database1.mdf
+D:\STUDENT\Aarti\Attendence System\Attendence System\bin\Debug\Database1_log.ldf
+D:\STUDENT\Aarti\Attendence System\Attendence System\bin\Debug\Attendence System.exe
+D:\STUDENT\Aarti\Attendence System\Attendence System\bin\Debug\Attendence System.pdb
+D:\STUDENT\AMS\Attendence System\Attendence System\bin\Debug\Attendence System.exe.config
+D:\STUDENT\AMS\Attendence System\Attendence System\obj\Debug\Attendence System.exe
+D:\STUDENT\AMS\Attendence System\Attendence System\obj\Debug\Attendence System.pdb
+D:\STUDENT\AMS\Attendence System\Attendence System\obj\Debug\ResolveAssemblyReference.cache
+D:\STUDENT\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendance_List.resources
+D:\STUDENT\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment_List.resources
+D:\STUDENT\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee.resources
+D:\STUDENT\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendence.resources
+D:\STUDENT\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmChangePassword.resources
+D:\STUDENT\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmCreateNewUser.resources
+D:\STUDENT\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment.resources
+D:\STUDENT\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee_List.resources
+D:\STUDENT\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday.resources
+D:\STUDENT\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday_List.resources
+D:\STUDENT\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave.resources
+D:\STUDENT\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave_List.resources
+D:\STUDENT\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLogin.resources
+D:\STUDENT\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary.resources
+D:\STUDENT\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary_List.resources
+D:\STUDENT\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale.resources
+D:\STUDENT\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmsplash.resources
+D:\STUDENT\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking.resources
+D:\STUDENT\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking_List.resources
+D:\STUDENT\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale_List.resources
+D:\STUDENT\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.MDIParent1.resources
+D:\STUDENT\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.Properties.Resources.resources
+D:\STUDENT\AMS\Attendence System\Attendence System\obj\Debug\Attendence System.csproj.GenerateResource.Cache
+D:\STUDENT\AMS\Attendence System\Attendence System\bin\Debug\Attandance.mdb
+D:\STUDENT\AMS\Attendence System\Attendence System\bin\Debug\Database1.mdf
+D:\STUDENT\AMS\Attendence System\Attendence System\bin\Debug\Database1_log.ldf
+D:\STUDENT\AMS\Attendence System\Attendence System\bin\Debug\Attendence System.exe
+D:\STUDENT\AMS\Attendence System\Attendence System\bin\Debug\Attendence System.pdb
+D:\STUDENT\AMS\Attendence System\Attendence System\obj\Debug\RdlCompile.cache
+D:\STUDENT\AMS\Attendence System\Attendence System\obj\Debug\RdlCompile.compiled
+E:\AMS\Attendence System\Attendence System\bin\Debug\Attendence System.exe.config
+E:\AMS\Attendence System\Attendence System\obj\Debug\Attendence System.exe
+E:\AMS\Attendence System\Attendence System\obj\Debug\Attendence System.pdb
+E:\AMS\Attendence System\Attendence System\bin\Debug\Database1.mdf
+E:\AMS\Attendence System\Attendence System\bin\Debug\Database1_log.ldf
+E:\AMS\Attendence System\Attendence System\bin\Debug\Attandance.mdb
+E:\AMS\Attendence System\Attendence System\bin\Debug\Attendence System.exe
+E:\AMS\Attendence System\Attendence System\bin\Debug\Attendence System.pdb
+E:\AMS\Attendence System\Attendence System\obj\Debug\ResolveAssemblyReference.cache
+E:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendance_List.resources
+E:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment_List.resources
+E:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee.resources
+E:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendence.resources
+E:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmChangePassword.resources
+E:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmCreateNewUser.resources
+E:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment.resources
+E:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee_List.resources
+E:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday.resources
+E:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday_List.resources
+E:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave.resources
+E:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave_List.resources
+E:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLogin.resources
+E:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary.resources
+E:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary_List.resources
+E:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale.resources
+E:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmsplash.resources
+E:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking.resources
+E:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking_List.resources
+E:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale_List.resources
+E:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.MDIParent1.resources
+E:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.Properties.Resources.resources
+E:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.Report.rptAttendance.resources
+E:\AMS\Attendence System\Attendence System\obj\Debug\Attendence System.csproj.GenerateResource.Cache
+E:\AMS\Attendence System\Attendence System\obj\Debug\RdlCompile.cache
+E:\AMS\Attendence System\Attendence System\obj\Debug\RdlCompile.compiled
+E:\My Report\AMS\Attendence System\Attendence System\bin\Debug\Attendence System.exe.config
+E:\My Report\AMS\Attendence System\Attendence System\obj\Debug\Attendence System.exe
+E:\My Report\AMS\Attendence System\Attendence System\obj\Debug\Attendence System.pdb
+E:\My Report\AMS\Attendence System\Attendence System\bin\Debug\Database1.mdf
+E:\My Report\AMS\Attendence System\Attendence System\bin\Debug\Database1_log.ldf
+E:\My Report\AMS\Attendence System\Attendence System\bin\Debug\Attandance.mdb
+E:\My Report\AMS\Attendence System\Attendence System\bin\Debug\Attendence System.exe
+E:\My Report\AMS\Attendence System\Attendence System\bin\Debug\Attendence System.pdb
+E:\My Report\AMS\Attendence System\Attendence System\obj\Debug\ResolveAssemblyReference.cache
+E:\My Report\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendance_List.resources
+E:\My Report\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment_List.resources
+E:\My Report\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee.resources
+E:\My Report\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendence.resources
+E:\My Report\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmChangePassword.resources
+E:\My Report\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmCreateNewUser.resources
+E:\My Report\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment.resources
+E:\My Report\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee_List.resources
+E:\My Report\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday.resources
+E:\My Report\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday_List.resources
+E:\My Report\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave.resources
+E:\My Report\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave_List.resources
+E:\My Report\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLogin.resources
+E:\My Report\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary.resources
+E:\My Report\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary_List.resources
+E:\My Report\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale.resources
+E:\My Report\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmsplash.resources
+E:\My Report\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking.resources
+E:\My Report\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking_List.resources
+E:\My Report\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale_List.resources
+E:\My Report\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.MDIParent1.resources
+E:\My Report\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.Properties.Resources.resources
+E:\My Report\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.Report.rptAttendance.resources
+E:\My Report\AMS\Attendence System\Attendence System\obj\Debug\Attendence System.csproj.GenerateResource.Cache
+E:\My Report\AMS\Attendence System\Attendence System\obj\Debug\RdlCompile.cache
+E:\My Report\AMS\Attendence System\Attendence System\obj\Debug\RdlCompile.compiled
+I:\AMS\Attendence System\Attendence System\bin\Debug\Attendence System.exe.config
+I:\AMS\Attendence System\Attendence System\obj\Debug\Attendence System.exe
+I:\AMS\Attendence System\Attendence System\obj\Debug\Attendence System.pdb
+D:\STUDENT\AMS\AMSar\Attendence System\Attendence System\bin\Debug\Attandance.mdb
+D:\STUDENT\AMS\AMSar\Attendence System\Attendence System\bin\Debug\Database1.mdf
+D:\STUDENT\AMS\AMSar\Attendence System\Attendence System\bin\Debug\Database1_log.ldf
+D:\STUDENT\AMS\AMSar\Attendence System\Attendence System\bin\Debug\Attendence System.exe.config
+D:\STUDENT\AMS\AMSar\Attendence System\Attendence System\bin\Debug\Attendence System.exe
+D:\STUDENT\AMS\AMSar\Attendence System\Attendence System\bin\Debug\Attendence System.pdb
+D:\STUDENT\AMS\AMSar\Attendence System\Attendence System\obj\Debug\ResolveAssemblyReference.cache
+D:\STUDENT\AMS\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendance_List.resources
+D:\STUDENT\AMS\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendence_new.resources
+D:\STUDENT\AMS\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment_List.resources
+D:\STUDENT\AMS\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee.resources
+D:\STUDENT\AMS\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendence.resources
+D:\STUDENT\AMS\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.frmChangePassword.resources
+D:\STUDENT\AMS\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.frmCreateNewUser.resources
+D:\STUDENT\AMS\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment.resources
+D:\STUDENT\AMS\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee_List.resources
+D:\STUDENT\AMS\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday.resources
+D:\STUDENT\AMS\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday_List.resources
+D:\STUDENT\AMS\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave.resources
+D:\STUDENT\AMS\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave_List.resources
+D:\STUDENT\AMS\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLogin.resources
+D:\STUDENT\AMS\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary.resources
+D:\STUDENT\AMS\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary_List.resources
+D:\STUDENT\AMS\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale.resources
+D:\STUDENT\AMS\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.frmsplash.resources
+D:\STUDENT\AMS\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSystemlock.resources
+D:\STUDENT\AMS\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking.resources
+D:\STUDENT\AMS\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking_List.resources
+D:\STUDENT\AMS\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale_List.resources
+D:\STUDENT\AMS\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.MDIParent1.resources
+D:\STUDENT\AMS\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.Properties.Resources.resources
+D:\STUDENT\AMS\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.rptAttendance.resources
+D:\STUDENT\AMS\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.rptDepartment.resources
+D:\STUDENT\AMS\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.rptEmployee.resources
+D:\STUDENT\AMS\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.rptHoliday.resources
+D:\STUDENT\AMS\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.rptLeave_details.resources
+D:\STUDENT\AMS\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.rptSalary.resources
+D:\STUDENT\AMS\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.rptScale.resources
+D:\STUDENT\AMS\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.rptWorkingday.resources
+D:\STUDENT\AMS\AMSar\Attendence System\Attendence System\obj\Debug\Attendence System.csproj.GenerateResource.Cache
+D:\STUDENT\AMS\AMSar\Attendence System\Attendence System\obj\Debug\RdlCompile.cache
+D:\STUDENT\AMS\AMSar\Attendence System\Attendence System\obj\Debug\RdlCompile.compiled
+D:\STUDENT\AMS\AMSar\Attendence System\Attendence System\obj\Debug\Attendence System.exe
+D:\STUDENT\AMS\AMSar\Attendence System\Attendence System\obj\Debug\Attendence System.pdb
+G:\AMSar\Attendence System\Attendence System\bin\Debug\Attendence System.exe.config
+G:\AMSar\Attendence System\Attendence System\obj\Debug\Attendence System.exe
+G:\AMSar\Attendence System\Attendence System\obj\Debug\Attendence System.pdb
+G:\AMSar\Attendence System\Attendence System\obj\Debug\ResolveAssemblyReference.cache
+G:\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendance_List.resources
+G:\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendence_new.resources
+G:\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment_List.resources
+G:\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee.resources
+G:\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendence.resources
+G:\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.frmChangePassword.resources
+G:\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.frmCreateNewUser.resources
+G:\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment.resources
+G:\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee_List.resources
+G:\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday.resources
+G:\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday_List.resources
+G:\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave.resources
+G:\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave_List.resources
+G:\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLogin.resources
+G:\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary.resources
+G:\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary_List.resources
+G:\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale.resources
+G:\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.frmsplash.resources
+G:\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSystemlock.resources
+G:\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking.resources
+G:\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking_List.resources
+G:\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale_List.resources
+G:\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.MDIParent1.resources
+G:\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.Properties.Resources.resources
+G:\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.rptAttendance.resources
+G:\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.rptDepartment.resources
+G:\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.rptEmployee.resources
+G:\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.rptHoliday.resources
+G:\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.rptLeave_details.resources
+G:\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.rptSalary.resources
+G:\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.rptScale.resources
+G:\AMSar\Attendence System\Attendence System\obj\Debug\Attendence_System.rptWorkingday.resources
+G:\AMSar\Attendence System\Attendence System\obj\Debug\Attendence System.csproj.GenerateResource.Cache
+G:\AMSar\Attendence System\Attendence System\obj\Debug\RdlCompile.cache
+G:\AMSar\Attendence System\Attendence System\obj\Debug\RdlCompile.compiled
+G:\AMSar\Attendence System\Attendence System\bin\Debug\Attandance.mdb
+G:\AMSar\Attendence System\Attendence System\bin\Debug\Database1.mdf
+G:\AMSar\Attendence System\Attendence System\bin\Debug\Database1_log.ldf
+G:\AMSar\Attendence System\Attendence System\bin\Debug\Attendence System.exe
+G:\AMSar\Attendence System\Attendence System\bin\Debug\Attendence System.pdb
+L:\AMSar\Attendence System\Attendence System\bin\Debug\Attendence System.exe.config
+L:\AMSar\Attendence System\Attendence System\obj\Debug\Attendence System.exe
+L:\AMSar\Attendence System\Attendence System\obj\Debug\Attendence System.pdb
+K:\AMSar\Attendence System\Attendence System\bin\Debug\Attendence System.exe.config
+K:\AMSar\Attendence System\Attendence System\obj\Debug\Attendence System.exe
+K:\AMSar\Attendence System\Attendence System\obj\Debug\Attendence System.pdb
+D:\STUDENT\AMS\AMSar1\Attendence System\Attendence System\bin\Debug\Attendence System.exe.config
+D:\STUDENT\AMS\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence System.exe
+D:\STUDENT\AMS\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence System.pdb
+D:\STUDENT\AMS\AMSar1\Attendence System\Attendence System\bin\Debug\Attandance.mdb
+D:\STUDENT\AMS\AMSar1\Attendence System\Attendence System\bin\Debug\Database1.mdf
+D:\STUDENT\AMS\AMSar1\Attendence System\Attendence System\bin\Debug\Database1_log.ldf
+D:\STUDENT\AMS\AMSar1\Attendence System\Attendence System\bin\Debug\Attendence System.exe
+D:\STUDENT\AMS\AMSar1\Attendence System\Attendence System\bin\Debug\Attendence System.pdb
+D:\STUDENT\AMS\AMSar1\Attendence System\Attendence System\obj\Debug\ResolveAssemblyReference.cache
+D:\STUDENT\AMS\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendance_List.resources
+D:\STUDENT\AMS\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendence_new.resources
+D:\STUDENT\AMS\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment_List.resources
+D:\STUDENT\AMS\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee.resources
+D:\STUDENT\AMS\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendence.resources
+D:\STUDENT\AMS\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmChangePassword.resources
+D:\STUDENT\AMS\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmCreateNewUser.resources
+D:\STUDENT\AMS\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment.resources
+D:\STUDENT\AMS\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee_List.resources
+D:\STUDENT\AMS\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday.resources
+D:\STUDENT\AMS\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday_List.resources
+D:\STUDENT\AMS\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave.resources
+D:\STUDENT\AMS\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave_List.resources
+D:\STUDENT\AMS\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLogin.resources
+D:\STUDENT\AMS\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary.resources
+D:\STUDENT\AMS\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary_List.resources
+D:\STUDENT\AMS\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale.resources
+D:\STUDENT\AMS\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmsplash.resources
+D:\STUDENT\AMS\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSystemlock.resources
+D:\STUDENT\AMS\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking.resources
+D:\STUDENT\AMS\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking_List.resources
+D:\STUDENT\AMS\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale_List.resources
+D:\STUDENT\AMS\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.MDIParent1.resources
+D:\STUDENT\AMS\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.Properties.Resources.resources
+D:\STUDENT\AMS\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.rptAttendance.resources
+D:\STUDENT\AMS\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.rptDepartment.resources
+D:\STUDENT\AMS\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.rptEmployee.resources
+D:\STUDENT\AMS\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.rptHoliday.resources
+D:\STUDENT\AMS\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.rptLeave_details.resources
+D:\STUDENT\AMS\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.rptSalary.resources
+D:\STUDENT\AMS\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.rptScale.resources
+D:\STUDENT\AMS\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.rptWorkingday.resources
+D:\STUDENT\AMS\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence System.csproj.GenerateResource.Cache
+D:\STUDENT\AMS\AMSar1\Attendence System\Attendence System\obj\Debug\RdlCompile.cache
+D:\STUDENT\AMS\AMSar1\Attendence System\Attendence System\obj\Debug\RdlCompile.compiled
+K:\AMSar1\Attendence System\Attendence System\bin\Debug\Attendence System.exe.config
+K:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence System.exe
+K:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence System.pdb
+K:\AMSar1\Attendence System\Attendence System\bin\Debug\Attandance.mdb
+K:\AMSar1\Attendence System\Attendence System\bin\Debug\Database1.mdf
+K:\AMSar1\Attendence System\Attendence System\bin\Debug\Database1_log.ldf
+K:\AMSar1\Attendence System\Attendence System\bin\Debug\Attendence System.exe
+K:\AMSar1\Attendence System\Attendence System\bin\Debug\Attendence System.pdb
+K:\AMSar1\Attendence System\Attendence System\obj\Debug\ResolveAssemblyReference.cache
+K:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendance_List.resources
+K:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendence_new.resources
+K:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment_List.resources
+K:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee.resources
+K:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendence.resources
+K:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmChangePassword.resources
+K:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmCreateNewUser.resources
+K:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment.resources
+K:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee_List.resources
+K:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday.resources
+K:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday_List.resources
+K:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave.resources
+K:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave_List.resources
+K:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLogin.resources
+K:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary.resources
+K:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary_List.resources
+K:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale.resources
+K:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmsplash.resources
+K:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSystemlock.resources
+K:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking.resources
+K:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking_List.resources
+K:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale_List.resources
+K:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.MDIParent1.resources
+K:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.Properties.Resources.resources
+K:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.rptAttendance.resources
+K:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.rptDepartment.resources
+K:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.rptEmployee.resources
+K:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.rptHoliday.resources
+K:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.rptLeave_details.resources
+K:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.rptSalary.resources
+K:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.rptScale.resources
+K:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.rptWorkingday.resources
+K:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence System.csproj.GenerateResource.Cache
+K:\AMSar1\Attendence System\Attendence System\obj\Debug\RdlCompile.cache
+K:\AMSar1\Attendence System\Attendence System\obj\Debug\RdlCompile.compiled
+L:\AMSar1\Attendence System\Attendence System\bin\Debug\Attendence System.exe.config
+L:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence System.exe
+L:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence System.pdb
+L:\AMSar1\Attendence System\Attendence System\bin\Debug\Attandance.mdb
+L:\AMSar1\Attendence System\Attendence System\bin\Debug\Database1.mdf
+L:\AMSar1\Attendence System\Attendence System\bin\Debug\Database1_log.ldf
+L:\AMSar1\Attendence System\Attendence System\bin\Debug\Attendence System.exe
+L:\AMSar1\Attendence System\Attendence System\bin\Debug\Attendence System.pdb
+L:\AMSar1\Attendence System\Attendence System\obj\Debug\ResolveAssemblyReference.cache
+L:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendance_List.resources
+L:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendence_new.resources
+L:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment_List.resources
+L:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee.resources
+L:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendence.resources
+L:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmChangePassword.resources
+L:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmCreateNewUser.resources
+L:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment.resources
+L:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee_List.resources
+L:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday.resources
+L:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday_List.resources
+L:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave.resources
+L:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave_List.resources
+L:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLogin.resources
+L:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary.resources
+L:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary_List.resources
+L:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale.resources
+L:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmsplash.resources
+L:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSystemlock.resources
+L:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking.resources
+L:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking_List.resources
+L:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale_List.resources
+L:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.MDIParent1.resources
+L:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.Properties.Resources.resources
+L:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.rptAttendance.resources
+L:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.rptDepartment.resources
+L:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.rptEmployee.resources
+L:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.rptHoliday.resources
+L:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.rptLeave_details.resources
+L:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.rptSalary.resources
+L:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.rptScale.resources
+L:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.rptWorkingday.resources
+L:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence System.csproj.GenerateResource.Cache
+L:\AMSar1\Attendence System\Attendence System\obj\Debug\RdlCompile.cache
+L:\AMSar1\Attendence System\Attendence System\obj\Debug\RdlCompile.compiled
+J:\AMSar1\Attendence System\Attendence System\bin\Debug\Attendence System.exe.config
+J:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence System.exe
+J:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence System.pdb
+J:\AMSar1\Attendence System\Attendence System\bin\Debug\Attandance.mdb
+J:\AMSar1\Attendence System\Attendence System\bin\Debug\Database1.mdf
+J:\AMSar1\Attendence System\Attendence System\bin\Debug\Database1_log.ldf
+J:\AMSar1\Attendence System\Attendence System\bin\Debug\Attendence System.exe
+J:\AMSar1\Attendence System\Attendence System\bin\Debug\Attendence System.pdb
+J:\AMSar1\Attendence System\Attendence System\obj\Debug\ResolveAssemblyReference.cache
+J:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendance_List.resources
+J:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendence_new.resources
+J:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment_List.resources
+J:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee.resources
+J:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendence.resources
+J:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmChangePassword.resources
+J:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmCreateNewUser.resources
+J:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment.resources
+J:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee_List.resources
+J:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday.resources
+J:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday_List.resources
+J:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave.resources
+J:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave_List.resources
+J:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLogin.resources
+J:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary.resources
+J:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary_List.resources
+J:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale.resources
+J:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmsplash.resources
+J:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSystemlock.resources
+J:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking.resources
+J:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking_List.resources
+J:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale_List.resources
+J:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.MDIParent1.resources
+J:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.Properties.Resources.resources
+J:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.rptAttendance.resources
+J:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.rptDepartment.resources
+J:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.rptEmployee.resources
+J:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.rptHoliday.resources
+J:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.rptLeave_details.resources
+J:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.rptSalary.resources
+J:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.rptScale.resources
+J:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence_System.rptWorkingday.resources
+J:\AMSar1\Attendence System\Attendence System\obj\Debug\Attendence System.csproj.GenerateResource.Cache
+J:\AMSar1\Attendence System\Attendence System\obj\Debug\RdlCompile.cache
+J:\AMSar1\Attendence System\Attendence System\obj\Debug\RdlCompile.compiled
+D:\AMS\Attendence System\Attendence System\bin\Debug\Attendence System.exe.config
+D:\AMS\Attendence System\Attendence System\obj\Debug\Attendence System.exe
+D:\AMS\Attendence System\Attendence System\obj\Debug\Attendence System.pdb
+D:\AMS\Attendence System\Attendence System\bin\Debug\Attandance.mdb
+D:\AMS\Attendence System\Attendence System\bin\Debug\Database1.mdf
+D:\AMS\Attendence System\Attendence System\bin\Debug\Database1_log.ldf
+D:\AMS\Attendence System\Attendence System\bin\Debug\Attendence System.exe
+D:\AMS\Attendence System\Attendence System\bin\Debug\Attendence System.pdb
+D:\AMS\Attendence System\Attendence System\obj\Debug\ResolveAssemblyReference.cache
+D:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendance_List.resources
+D:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendence_new.resources
+D:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment_List.resources
+D:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee.resources
+D:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendence.resources
+D:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmChangePassword.resources
+D:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmCreateNewUser.resources
+D:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment.resources
+D:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee_List.resources
+D:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday.resources
+D:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday_List.resources
+D:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave.resources
+D:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave_List.resources
+D:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLogin.resources
+D:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary.resources
+D:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary_List.resources
+D:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale.resources
+D:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmsplash.resources
+D:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSystemlock.resources
+D:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking.resources
+D:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking_List.resources
+D:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale_List.resources
+D:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.MDIParent1.resources
+D:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.Properties.Resources.resources
+D:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.rptAttendance.resources
+D:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.rptDepartment.resources
+D:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.rptEmployee.resources
+D:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.rptHoliday.resources
+D:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.rptLeave_details.resources
+D:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.rptSalary.resources
+D:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.rptScale.resources
+D:\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.rptWorkingday.resources
+D:\AMS\Attendence System\Attendence System\obj\Debug\Attendence System.csproj.GenerateResource.Cache
+D:\AMS\Attendence System\Attendence System\obj\Debug\RdlCompile.cache
+D:\AMS\Attendence System\Attendence System\obj\Debug\RdlCompile.compiled
+D:\Student\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendence_new.resources
+D:\Student\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSystemlock.resources
+D:\Student\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.rptAttendance.resources
+D:\Student\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.rptDepartment.resources
+D:\Student\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.rptEmployee.resources
+D:\Student\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.rptHoliday.resources
+D:\Student\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.rptLeave_details.resources
+D:\Student\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.rptSalary.resources
+D:\Student\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.rptScale.resources
+D:\Student\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.rptWorkingday.resources
+D:\STUDENT\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendence_new.resources
+D:\STUDENT\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary_Final.resources
+D:\STUDENT\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSystemlock.resources
+D:\STUDENT\Attendence System\Attendence System\obj\Debug\Attendence_System.rptAttendance.resources
+D:\STUDENT\Attendence System\Attendence System\obj\Debug\Attendence_System.rptDepartment.resources
+D:\STUDENT\Attendence System\Attendence System\obj\Debug\Attendence_System.rptEmployee.resources
+D:\STUDENT\Attendence System\Attendence System\obj\Debug\Attendence_System.rptHoliday.resources
+D:\STUDENT\Attendence System\Attendence System\obj\Debug\Attendence_System.rptLeave_details.resources
+D:\STUDENT\Attendence System\Attendence System\obj\Debug\Attendence_System.rptSalary.resources
+D:\STUDENT\Attendence System\Attendence System\obj\Debug\Attendence_System.rptScale.resources
+D:\STUDENT\Attendence System\Attendence System\obj\Debug\Attendence_System.rptWorkingday.resources
+D:\STUDENT\Attendence System\Attendence System\obj\Debug\RdlCompile.cache
+D:\STUDENT\Attendence System\Attendence System\obj\Debug\RdlCompile.compiled
+D:\Student\AMS\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary_Final.resources
+D:\Student\AMS\Attendence System1\Attendence System\bin\Debug\Attendence System.exe.config
+D:\Student\AMS\Attendence System1\Attendence System\obj\Debug\Attendence System.exe
+D:\Student\AMS\Attendence System1\Attendence System\obj\Debug\Attendence System.pdb
+D:\Student\AMS\Attendence System1\Attendence System\bin\Debug\Attandance.mdb
+D:\Student\AMS\Attendence System1\Attendence System\bin\Debug\Database1.mdf
+D:\Student\AMS\Attendence System1\Attendence System\bin\Debug\Database1_log.ldf
+D:\Student\AMS\Attendence System1\Attendence System\bin\Debug\Attendence System.exe
+D:\Student\AMS\Attendence System1\Attendence System\bin\Debug\Attendence System.pdb
+D:\Student\AMS\Attendence System1\Attendence System\obj\Debug\ResolveAssemblyReference.cache
+D:\Student\AMS\Attendence System1\Attendence System\obj\Debug\Attendence_System.frmAttendance_List.resources
+D:\Student\AMS\Attendence System1\Attendence System\obj\Debug\Attendence_System.frmDepartment_List.resources
+D:\Student\AMS\Attendence System1\Attendence System\obj\Debug\Attendence_System.frmEmployee.resources
+D:\Student\AMS\Attendence System1\Attendence System\obj\Debug\Attendence_System.frmAttendence.resources
+D:\Student\AMS\Attendence System1\Attendence System\obj\Debug\Attendence_System.frmChangePassword.resources
+D:\Student\AMS\Attendence System1\Attendence System\obj\Debug\Attendence_System.frmCreateNewUser.resources
+D:\Student\AMS\Attendence System1\Attendence System\obj\Debug\Attendence_System.frmDepartment.resources
+D:\Student\AMS\Attendence System1\Attendence System\obj\Debug\Attendence_System.frmEmployee_List.resources
+D:\Student\AMS\Attendence System1\Attendence System\obj\Debug\Attendence_System.frmHoliday.resources
+D:\Student\AMS\Attendence System1\Attendence System\obj\Debug\Attendence_System.frmHoliday_List.resources
+D:\Student\AMS\Attendence System1\Attendence System\obj\Debug\Attendence_System.frmLeave.resources
+D:\Student\AMS\Attendence System1\Attendence System\obj\Debug\Attendence_System.frmLeave_List.resources
+D:\Student\AMS\Attendence System1\Attendence System\obj\Debug\Attendence_System.frmLogin.resources
+D:\Student\AMS\Attendence System1\Attendence System\obj\Debug\Attendence_System.frmSalary.resources
+D:\Student\AMS\Attendence System1\Attendence System\obj\Debug\Attendence_System.frmSalary_List.resources
+D:\Student\AMS\Attendence System1\Attendence System\obj\Debug\Attendence_System.frmScale.resources
+D:\Student\AMS\Attendence System1\Attendence System\obj\Debug\Attendence_System.frmsplash.resources
+D:\Student\AMS\Attendence System1\Attendence System\obj\Debug\Attendence_System.frmSystemlock.resources
+D:\Student\AMS\Attendence System1\Attendence System\obj\Debug\Attendence_System.frmWorking.resources
+D:\Student\AMS\Attendence System1\Attendence System\obj\Debug\Attendence_System.frmWorking_List.resources
+D:\Student\AMS\Attendence System1\Attendence System\obj\Debug\Attendence_System.frmScale_List.resources
+D:\Student\AMS\Attendence System1\Attendence System\obj\Debug\Attendence_System.MDIParent1.resources
+D:\Student\AMS\Attendence System1\Attendence System\obj\Debug\Attendence_System.Properties.Resources.resources
+D:\Student\AMS\Attendence System1\Attendence System\obj\Debug\Attendence_System.rptAttendance.resources
+D:\Student\AMS\Attendence System1\Attendence System\obj\Debug\Attendence_System.rptDepartment.resources
+D:\Student\AMS\Attendence System1\Attendence System\obj\Debug\Attendence_System.rptEmployee.resources
+D:\Student\AMS\Attendence System1\Attendence System\obj\Debug\Attendence_System.rptHoliday.resources
+D:\Student\AMS\Attendence System1\Attendence System\obj\Debug\Attendence_System.rptLeave_details.resources
+D:\Student\AMS\Attendence System1\Attendence System\obj\Debug\Attendence_System.rptSalary.resources
+D:\Student\AMS\Attendence System1\Attendence System\obj\Debug\Attendence_System.rptScale.resources
+D:\Student\AMS\Attendence System1\Attendence System\obj\Debug\Attendence_System.rptWorkingday.resources
+D:\Student\AMS\Attendence System1\Attendence System\obj\Debug\Attendence System.csproj.GenerateResource.Cache
+D:\Student\AMS\Attendence System1\Attendence System\obj\Debug\RdlCompile.cache
+D:\Student\AMS\Attendence System1\Attendence System\obj\Debug\RdlCompile.compiled
+G:\AMS\Attendence System\Attendence System\bin\Debug\Attendence System.exe.config
+G:\AMS\Attendence System\Attendence System\obj\Debug\Attendence System.exe
+G:\AMS\Attendence System\Attendence System\obj\Debug\Attendence System.pdb
+E:\My Report\AMSr\Attendence System\Attendence System\bin\Debug\Attendence System.exe.config
+E:\My Report\AMSr\Attendence System\Attendence System\obj\Debug\Attendence System.exe
+E:\My Report\AMSr\Attendence System\Attendence System\obj\Debug\Attendence System.pdb
+E:\My Report\AMSr\Attendence System\Attendence System\bin\Debug\Attandance.mdb
+E:\My Report\AMSr\Attendence System\Attendence System\bin\Debug\Database1.mdf
+E:\My Report\AMSr\Attendence System\Attendence System\bin\Debug\Database1_log.ldf
+E:\My Report\AMSr\Attendence System\Attendence System\bin\Debug\Attendence System.exe
+E:\My Report\AMSr\Attendence System\Attendence System\bin\Debug\Attendence System.pdb
+E:\My Report\AMSr\Attendence System\Attendence System\obj\Debug\ResolveAssemblyReference.cache
+E:\My Report\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendance_List.resources
+E:\My Report\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment_List.resources
+E:\My Report\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee.resources
+E:\My Report\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendence.resources
+E:\My Report\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmChangePassword.resources
+E:\My Report\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmCreateNewUser.resources
+E:\My Report\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment.resources
+E:\My Report\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee_List.resources
+E:\My Report\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday.resources
+E:\My Report\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday_List.resources
+E:\My Report\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave.resources
+E:\My Report\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave_List.resources
+E:\My Report\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLogin.resources
+E:\My Report\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary.resources
+E:\My Report\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary_List.resources
+E:\My Report\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale.resources
+E:\My Report\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmsplash.resources
+E:\My Report\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSystemlock.resources
+E:\My Report\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking.resources
+E:\My Report\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking_List.resources
+E:\My Report\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale_List.resources
+E:\My Report\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.MDIParent1.resources
+E:\My Report\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.Properties.Resources.resources
+E:\My Report\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptAttendance.resources
+E:\My Report\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptDepartment.resources
+E:\My Report\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptEmployee.resources
+E:\My Report\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptHoliday.resources
+E:\My Report\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptLeave_details.resources
+E:\My Report\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptSalary.resources
+E:\My Report\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptScale.resources
+E:\My Report\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptWorkingday.resources
+E:\My Report\AMSr\Attendence System\Attendence System\obj\Debug\Attendence System.csproj.GenerateResource.Cache
+E:\My Report\AMSr\Attendence System\Attendence System\obj\Debug\RdlCompile.cache
+E:\My Report\AMSr\Attendence System\Attendence System\obj\Debug\RdlCompile.compiled
+H:\AMSr\Attendence System\Attendence System\bin\Debug\Attendence System.exe.config
+H:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence System.exe
+H:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence System.pdb
+H:\AMSr\Attendence System\Attendence System\bin\Debug\Attandance.mdb
+H:\AMSr\Attendence System\Attendence System\bin\Debug\Database1.mdf
+H:\AMSr\Attendence System\Attendence System\bin\Debug\Database1_log.ldf
+H:\AMSr\Attendence System\Attendence System\bin\Debug\Attendence System.exe
+H:\AMSr\Attendence System\Attendence System\bin\Debug\Attendence System.pdb
+H:\AMSr\Attendence System\Attendence System\obj\Debug\ResolveAssemblyReference.cache
+H:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendance_List.resources
+H:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment_List.resources
+H:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee.resources
+H:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendence.resources
+H:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmChangePassword.resources
+H:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmCreateNewUser.resources
+H:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment.resources
+H:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee_List.resources
+H:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday.resources
+H:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday_List.resources
+H:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave.resources
+H:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave_List.resources
+H:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLogin.resources
+H:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary.resources
+H:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary_List.resources
+H:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale.resources
+H:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmsplash.resources
+H:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSystemlock.resources
+H:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking.resources
+H:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking_List.resources
+H:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale_List.resources
+H:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.MDIParent1.resources
+H:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.Properties.Resources.resources
+H:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptAttendance.resources
+H:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptDepartment.resources
+H:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptEmployee.resources
+H:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptHoliday.resources
+H:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptLeave_details.resources
+H:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptSalary.resources
+H:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptScale.resources
+H:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptWorkingday.resources
+H:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence System.csproj.GenerateResource.Cache
+H:\AMSr\Attendence System\Attendence System\obj\Debug\RdlCompile.cache
+H:\AMSr\Attendence System\Attendence System\obj\Debug\RdlCompile.compiled
+H:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendance1.resources
+G:\AMSr\Attendence System\Attendence System\bin\Debug\Attendence System.exe.config
+G:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence System.exe
+G:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence System.pdb
+G:\AMSr\Attendence System\Attendence System\bin\Debug\Attandance.mdb
+G:\AMSr\Attendence System\Attendence System\bin\Debug\Database1.mdf
+G:\AMSr\Attendence System\Attendence System\bin\Debug\Database1_log.ldf
+G:\AMSr\Attendence System\Attendence System\bin\Debug\Attendence System.exe
+G:\AMSr\Attendence System\Attendence System\bin\Debug\Attendence System.pdb
+G:\AMSr\Attendence System\Attendence System\obj\Debug\ResolveAssemblyReference.cache
+G:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendance_List.resources
+G:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendance1.resources
+G:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment_List.resources
+G:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee.resources
+G:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendence.resources
+G:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmChangePassword.resources
+G:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmCreateNewUser.resources
+G:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment.resources
+G:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee_List.resources
+G:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday.resources
+G:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday_List.resources
+G:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave.resources
+G:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave_List.resources
+G:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLogin.resources
+G:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary.resources
+G:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary_List.resources
+G:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale.resources
+G:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmsplash.resources
+G:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSystemlock.resources
+G:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking.resources
+G:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking_List.resources
+G:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale_List.resources
+G:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.MDIParent1.resources
+G:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.Properties.Resources.resources
+G:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptAttendance.resources
+G:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptDepartment.resources
+G:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptEmployee.resources
+G:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptHoliday.resources
+G:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptLeave_details.resources
+G:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptSalary.resources
+G:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptScale.resources
+G:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptWorkingday.resources
+G:\AMSr\Attendence System\Attendence System\obj\Debug\Attendence System.csproj.GenerateResource.Cache
+G:\AMSr\Attendence System\Attendence System\obj\Debug\RdlCompile.cache
+G:\AMSr\Attendence System\Attendence System\obj\Debug\RdlCompile.compiled
+E:\My Report\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendance1.resources
+E:\My Report\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmexit.resources
+C:\Documents and Settings\student\Desktop\AMSr\Attendence System\Attendence System\bin\Debug\Attendence System.exe.config
+C:\Documents and Settings\student\Desktop\AMSr\Attendence System\Attendence System\obj\Debug\Attendence System.exe
+C:\Documents and Settings\student\Desktop\AMSr\Attendence System\Attendence System\obj\Debug\Attendence System.pdb
+C:\Documents and Settings\student\Desktop\AMSr\Attendence System\Attendence System\bin\Debug\Attandance.mdb
+C:\Documents and Settings\student\Desktop\AMSr\Attendence System\Attendence System\bin\Debug\Database1.mdf
+C:\Documents and Settings\student\Desktop\AMSr\Attendence System\Attendence System\bin\Debug\Database1_log.ldf
+C:\Documents and Settings\student\Desktop\AMSr\Attendence System\Attendence System\bin\Debug\Attendence System.exe
+C:\Documents and Settings\student\Desktop\AMSr\Attendence System\Attendence System\bin\Debug\Attendence System.pdb
+C:\Documents and Settings\student\Desktop\AMSr\Attendence System\Attendence System\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\student\Desktop\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendance_List.resources
+C:\Documents and Settings\student\Desktop\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment_List.resources
+C:\Documents and Settings\student\Desktop\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee.resources
+C:\Documents and Settings\student\Desktop\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmChangePassword.resources
+C:\Documents and Settings\student\Desktop\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmCreateNewUser.resources
+C:\Documents and Settings\student\Desktop\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment.resources
+C:\Documents and Settings\student\Desktop\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee_List.resources
+C:\Documents and Settings\student\Desktop\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmexit.resources
+C:\Documents and Settings\student\Desktop\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday.resources
+C:\Documents and Settings\student\Desktop\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday_List.resources
+C:\Documents and Settings\student\Desktop\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave.resources
+C:\Documents and Settings\student\Desktop\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave_List.resources
+C:\Documents and Settings\student\Desktop\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLogin.resources
+C:\Documents and Settings\student\Desktop\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary.resources
+C:\Documents and Settings\student\Desktop\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary_List.resources
+C:\Documents and Settings\student\Desktop\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale.resources
+C:\Documents and Settings\student\Desktop\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmsplash.resources
+C:\Documents and Settings\student\Desktop\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSystemlock.resources
+C:\Documents and Settings\student\Desktop\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking.resources
+C:\Documents and Settings\student\Desktop\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking_List.resources
+C:\Documents and Settings\student\Desktop\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale_List.resources
+C:\Documents and Settings\student\Desktop\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.MDIParent1.resources
+C:\Documents and Settings\student\Desktop\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.Properties.Resources.resources
+C:\Documents and Settings\student\Desktop\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptAttendance.resources
+C:\Documents and Settings\student\Desktop\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptDepartment.resources
+C:\Documents and Settings\student\Desktop\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptEmployee.resources
+C:\Documents and Settings\student\Desktop\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptHoliday.resources
+C:\Documents and Settings\student\Desktop\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptLeave_details.resources
+C:\Documents and Settings\student\Desktop\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptSalary.resources
+C:\Documents and Settings\student\Desktop\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptScale.resources
+C:\Documents and Settings\student\Desktop\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptWorkingday.resources
+C:\Documents and Settings\student\Desktop\AMSr\Attendence System\Attendence System\obj\Debug\Attendence System.csproj.GenerateResource.Cache
+C:\Documents and Settings\student\Desktop\AMSr\Attendence System\Attendence System\obj\Debug\RdlCompile.cache
+C:\Documents and Settings\student\Desktop\AMSr\Attendence System\Attendence System\obj\Debug\RdlCompile.compiled
+G:\New Folder\AMSr\Attendence System\Attendence System\bin\Debug\Attendence System.exe.config
+G:\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence System.exe
+G:\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence System.pdb
+G:\New Folder\AMSr\Attendence System\Attendence System\bin\Debug\Attandance.mdb
+G:\New Folder\AMSr\Attendence System\Attendence System\bin\Debug\Database1.mdf
+G:\New Folder\AMSr\Attendence System\Attendence System\bin\Debug\Database1_log.ldf
+G:\New Folder\AMSr\Attendence System\Attendence System\bin\Debug\Attendence System.exe
+G:\New Folder\AMSr\Attendence System\Attendence System\bin\Debug\Attendence System.pdb
+G:\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\ResolveAssemblyReference.cache
+G:\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendance_List.resources
+G:\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendance1.resources
+G:\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment_List.resources
+G:\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee.resources
+G:\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendence.resources
+G:\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmChangePassword.resources
+G:\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmCreateNewUser.resources
+G:\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment.resources
+G:\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee_List.resources
+G:\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmexit.resources
+G:\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday.resources
+G:\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday_List.resources
+G:\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave.resources
+G:\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave_List.resources
+G:\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLogin.resources
+G:\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary.resources
+G:\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary_List.resources
+G:\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale.resources
+G:\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmsplash.resources
+G:\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSystemlock.resources
+G:\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking.resources
+G:\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking_List.resources
+G:\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale_List.resources
+G:\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.MDIParent1.resources
+G:\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.Properties.Resources.resources
+G:\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptAttendance.resources
+G:\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptDepartment.resources
+G:\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptEmployee.resources
+G:\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptHoliday.resources
+G:\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptLeave_details.resources
+G:\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptSalary.resources
+G:\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptScale.resources
+G:\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptWorkingday.resources
+G:\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence System.csproj.GenerateResource.Cache
+G:\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\RdlCompile.cache
+G:\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\RdlCompile.compiled
+C:\Documents and Settings\student\Desktop\New Folder\AMSr\Attendence System\Attendence System\bin\Debug\Attendence System.exe.config
+C:\Documents and Settings\student\Desktop\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence System.exe
+C:\Documents and Settings\student\Desktop\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence System.pdb
+C:\Documents and Settings\student\Desktop\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\student\Desktop\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendance_List.resources
+C:\Documents and Settings\student\Desktop\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendance1.resources
+C:\Documents and Settings\student\Desktop\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment_List.resources
+C:\Documents and Settings\student\Desktop\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee.resources
+C:\Documents and Settings\student\Desktop\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendence.resources
+C:\Documents and Settings\student\Desktop\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmChangePassword.resources
+C:\Documents and Settings\student\Desktop\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmCreateNewUser.resources
+C:\Documents and Settings\student\Desktop\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment.resources
+C:\Documents and Settings\student\Desktop\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee_List.resources
+C:\Documents and Settings\student\Desktop\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmexit.resources
+C:\Documents and Settings\student\Desktop\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday.resources
+C:\Documents and Settings\student\Desktop\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday_List.resources
+C:\Documents and Settings\student\Desktop\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave.resources
+C:\Documents and Settings\student\Desktop\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave_List.resources
+C:\Documents and Settings\student\Desktop\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLogin.resources
+C:\Documents and Settings\student\Desktop\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary.resources
+C:\Documents and Settings\student\Desktop\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary_List.resources
+C:\Documents and Settings\student\Desktop\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale.resources
+C:\Documents and Settings\student\Desktop\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmsplash.resources
+C:\Documents and Settings\student\Desktop\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSystemlock.resources
+C:\Documents and Settings\student\Desktop\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking.resources
+C:\Documents and Settings\student\Desktop\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking_List.resources
+C:\Documents and Settings\student\Desktop\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale_List.resources
+C:\Documents and Settings\student\Desktop\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.MDIParent1.resources
+C:\Documents and Settings\student\Desktop\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.Properties.Resources.resources
+C:\Documents and Settings\student\Desktop\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptAttendance.resources
+C:\Documents and Settings\student\Desktop\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptDepartment.resources
+C:\Documents and Settings\student\Desktop\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptEmployee.resources
+C:\Documents and Settings\student\Desktop\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptHoliday.resources
+C:\Documents and Settings\student\Desktop\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptLeave_details.resources
+C:\Documents and Settings\student\Desktop\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptSalary.resources
+C:\Documents and Settings\student\Desktop\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptScale.resources
+C:\Documents and Settings\student\Desktop\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptWorkingday.resources
+C:\Documents and Settings\student\Desktop\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\Attendence System.csproj.GenerateResource.Cache
+C:\Documents and Settings\student\Desktop\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\RdlCompile.cache
+C:\Documents and Settings\student\Desktop\New Folder\AMSr\Attendence System\Attendence System\obj\Debug\RdlCompile.compiled
+C:\Documents and Settings\student\Desktop\New Folder\AMSr\Attendence System\Attendence System\bin\Debug\Attandance.mdb
+C:\Documents and Settings\student\Desktop\New Folder\AMSr\Attendence System\Attendence System\bin\Debug\Database1.mdf
+C:\Documents and Settings\student\Desktop\New Folder\AMSr\Attendence System\Attendence System\bin\Debug\Database1_log.ldf
+C:\Documents and Settings\student\Desktop\New Folder\AMSr\Attendence System\Attendence System\bin\Debug\Attendence System.exe
+C:\Documents and Settings\student\Desktop\New Folder\AMSr\Attendence System\Attendence System\bin\Debug\Attendence System.pdb
+E:\my image\New Folder (3)\AMSr\Attendence System\Attendence System\bin\Debug\Attendence System.exe.config
+E:\my image\New Folder (3)\AMSr\Attendence System\Attendence System\obj\Debug\Attendence System.exe
+E:\my image\New Folder (3)\AMSr\Attendence System\Attendence System\obj\Debug\Attendence System.pdb
+E:\my image\New Folder (3)\AMSr\Attendence System\Attendence System\bin\Debug\Attandance.mdb
+E:\my image\New Folder (3)\AMSr\Attendence System\Attendence System\bin\Debug\Database1.mdf
+E:\my image\New Folder (3)\AMSr\Attendence System\Attendence System\bin\Debug\Database1_log.ldf
+E:\my image\New Folder (3)\AMSr\Attendence System\Attendence System\bin\Debug\Attendence System.exe
+E:\my image\New Folder (3)\AMSr\Attendence System\Attendence System\bin\Debug\Attendence System.pdb
+E:\my image\New Folder (3)\AMSr\Attendence System\Attendence System\obj\Debug\ResolveAssemblyReference.cache
+E:\my image\New Folder (3)\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendance_List.resources
+E:\my image\New Folder (3)\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendance1.resources
+E:\my image\New Folder (3)\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment_List.resources
+E:\my image\New Folder (3)\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee.resources
+E:\my image\New Folder (3)\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendence.resources
+E:\my image\New Folder (3)\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmChangePassword.resources
+E:\my image\New Folder (3)\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmCreateNewUser.resources
+E:\my image\New Folder (3)\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment.resources
+E:\my image\New Folder (3)\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee_List.resources
+E:\my image\New Folder (3)\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmexit.resources
+E:\my image\New Folder (3)\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday.resources
+E:\my image\New Folder (3)\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday_List.resources
+E:\my image\New Folder (3)\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave.resources
+E:\my image\New Folder (3)\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave_List.resources
+E:\my image\New Folder (3)\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLogin.resources
+E:\my image\New Folder (3)\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary.resources
+E:\my image\New Folder (3)\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary_List.resources
+E:\my image\New Folder (3)\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale.resources
+E:\my image\New Folder (3)\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmsplash.resources
+E:\my image\New Folder (3)\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSystemlock.resources
+E:\my image\New Folder (3)\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking.resources
+E:\my image\New Folder (3)\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking_List.resources
+E:\my image\New Folder (3)\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale_List.resources
+E:\my image\New Folder (3)\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.MDIParent1.resources
+E:\my image\New Folder (3)\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.Properties.Resources.resources
+E:\my image\New Folder (3)\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptAttendance.resources
+E:\my image\New Folder (3)\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptDepartment.resources
+E:\my image\New Folder (3)\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptEmployee.resources
+E:\my image\New Folder (3)\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptHoliday.resources
+E:\my image\New Folder (3)\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptLeave_details.resources
+E:\my image\New Folder (3)\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptSalary.resources
+E:\my image\New Folder (3)\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptScale.resources
+E:\my image\New Folder (3)\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptWorkingday.resources
+E:\my image\New Folder (3)\AMSr\Attendence System\Attendence System\obj\Debug\Attendence System.csproj.GenerateResource.Cache
+E:\my image\New Folder (3)\AMSr\Attendence System\Attendence System\obj\Debug\RdlCompile.cache
+E:\my image\New Folder (3)\AMSr\Attendence System\Attendence System\obj\Debug\RdlCompile.compiled
+G:\AMS\AMSr\Attendence System\Attendence System\bin\Debug\Attendence System.exe.config
+G:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence System.exe
+G:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence System.pdb
+G:\AMS\AMSr\Attendence System\Attendence System\bin\Debug\Attandance.mdb
+G:\AMS\AMSr\Attendence System\Attendence System\bin\Debug\Database1.mdf
+G:\AMS\AMSr\Attendence System\Attendence System\bin\Debug\Database1_log.ldf
+G:\AMS\AMSr\Attendence System\Attendence System\bin\Debug\Attendence System.exe
+G:\AMS\AMSr\Attendence System\Attendence System\bin\Debug\Attendence System.pdb
+G:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\ResolveAssemblyReference.cache
+G:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendance_List.resources
+G:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendance1.resources
+G:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment_List.resources
+G:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee.resources
+G:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendence.resources
+G:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmChangePassword.resources
+G:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmCreateNewUser.resources
+G:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment.resources
+G:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee_List.resources
+G:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmexit.resources
+G:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday.resources
+G:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday_List.resources
+G:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave.resources
+G:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave_List.resources
+G:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLogin.resources
+G:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary.resources
+G:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary_List.resources
+G:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale.resources
+G:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmsplash.resources
+G:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSystemlock.resources
+G:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking.resources
+G:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking_List.resources
+G:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale_List.resources
+G:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.MDIParent1.resources
+G:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.Properties.Resources.resources
+G:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptAttendance.resources
+G:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptDepartment.resources
+G:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptEmployee.resources
+G:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptHoliday.resources
+G:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptLeave_details.resources
+G:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptSalary.resources
+G:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptScale.resources
+G:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptWorkingday.resources
+G:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence System.csproj.GenerateResource.Cache
+G:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\RdlCompile.cache
+G:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\RdlCompile.compiled
+D:\AMS\AMSr\Attendence System\Attendence System\bin\Debug\Attandance.mdb
+D:\AMS\AMSr\Attendence System\Attendence System\bin\Debug\Database1.mdf
+D:\AMS\AMSr\Attendence System\Attendence System\bin\Debug\Database1_log.ldf
+D:\AMS\AMSr\Attendence System\Attendence System\bin\Debug\Attendence System.exe.config
+D:\AMS\AMSr\Attendence System\Attendence System\bin\Debug\Attendence System.exe
+D:\AMS\AMSr\Attendence System\Attendence System\bin\Debug\Attendence System.pdb
+D:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\ResolveAssemblyReference.cache
+D:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.Attendance.resources
+D:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendance_List.resources
+D:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmbackup_restore.resources
+D:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment_List.resources
+D:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee.resources
+D:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmChangePassword.resources
+D:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmCreateNewUser.resources
+D:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment.resources
+D:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee_List.resources
+D:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmexit.resources
+D:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday.resources
+D:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday_List.resources
+D:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave.resources
+D:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave_List.resources
+D:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLogin.resources
+D:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary.resources
+D:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary_List.resources
+D:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale.resources
+D:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmsplash.resources
+D:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSystemlock.resources
+D:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking.resources
+D:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking_List.resources
+D:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale_List.resources
+D:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.MDIParent1.resources
+D:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.Properties.Resources.resources
+D:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptAttendance.resources
+D:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptDepartment.resources
+D:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptEmployee.resources
+D:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptHoliday.resources
+D:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptLeave_details.resources
+D:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptSalary.resources
+D:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptScale.resources
+D:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptWorkingday.resources
+D:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence System.csproj.GenerateResource.Cache
+D:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\RdlCompile.cache
+D:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\RdlCompile.compiled
+D:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence System.exe
+D:\AMS\AMSr\Attendence System\Attendence System\obj\Debug\Attendence System.pdb
+G:\Project\AMSr\Attendence System\Attendence System\bin\Debug\Attendence System.exe.config
+G:\Project\AMSr\Attendence System\Attendence System\obj\Debug\Attendence System.exe
+G:\Project\AMSr\Attendence System\Attendence System\obj\Debug\Attendence System.pdb
+G:\Project\AMSr\Attendence System\Attendence System\bin\Debug\Attandance.mdb
+G:\Project\AMSr\Attendence System\Attendence System\bin\Debug\Database1.mdf
+G:\Project\AMSr\Attendence System\Attendence System\bin\Debug\Database1_log.ldf
+G:\Project\AMSr\Attendence System\Attendence System\bin\Debug\Attendence System.exe
+G:\Project\AMSr\Attendence System\Attendence System\bin\Debug\Attendence System.pdb
+G:\Project\AMSr\Attendence System\Attendence System\obj\Debug\ResolveAssemblyReference.cache
+G:\Project\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.Attendance.resources
+G:\Project\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendance_List.resources
+G:\Project\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmbackup_restore.resources
+G:\Project\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment_List.resources
+G:\Project\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee.resources
+G:\Project\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmChangePassword.resources
+G:\Project\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmCreateNewUser.resources
+G:\Project\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment.resources
+G:\Project\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee_List.resources
+G:\Project\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmexit.resources
+G:\Project\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday.resources
+G:\Project\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday_List.resources
+G:\Project\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave.resources
+G:\Project\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave_List.resources
+G:\Project\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLogin.resources
+G:\Project\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary.resources
+G:\Project\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary_List.resources
+G:\Project\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale.resources
+G:\Project\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmsplash.resources
+G:\Project\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSystemlock.resources
+G:\Project\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking.resources
+G:\Project\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking_List.resources
+G:\Project\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale_List.resources
+G:\Project\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.MDIParent1.resources
+G:\Project\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.Properties.Resources.resources
+G:\Project\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptAttendance.resources
+G:\Project\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptDepartment.resources
+G:\Project\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptEmployee.resources
+G:\Project\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptHoliday.resources
+G:\Project\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptLeave_details.resources
+G:\Project\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptSalary.resources
+G:\Project\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptScale.resources
+G:\Project\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptWorkingday.resources
+G:\Project\AMSr\Attendence System\Attendence System\obj\Debug\Attendence System.csproj.GenerateResource.Cache
+G:\Project\AMSr\Attendence System\Attendence System\obj\Debug\RdlCompile.cache
+G:\Project\AMSr\Attendence System\Attendence System\obj\Debug\RdlCompile.compiled
+C:\Documents and Settings\student\Desktop\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.Attendance.resources
+C:\Documents and Settings\student\Desktop\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmbackup_restore.resources
+H:\AMS\AMSr\AMSr\Attendence System\Attendence System\bin\Debug\Attendence System.exe.config
+H:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence System.exe
+H:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence System.pdb
+H:\AMS\AMSr\AMSr\Attendence System\Attendence System\bin\Debug\Attandance.mdb
+H:\AMS\AMSr\AMSr\Attendence System\Attendence System\bin\Debug\Database1.mdf
+H:\AMS\AMSr\AMSr\Attendence System\Attendence System\bin\Debug\Database1_log.ldf
+H:\AMS\AMSr\AMSr\Attendence System\Attendence System\bin\Debug\Attendence System.exe
+H:\AMS\AMSr\AMSr\Attendence System\Attendence System\bin\Debug\Attendence System.pdb
+H:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\ResolveAssemblyReference.cache
+H:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.Attendance.resources
+H:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendance_List.resources
+H:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmbackup_restore.resources
+H:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment_List.resources
+H:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee.resources
+H:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmChangePassword.resources
+H:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmCreateNewUser.resources
+H:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment.resources
+H:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee_List.resources
+H:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmexit.resources
+H:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday.resources
+H:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday_List.resources
+H:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave.resources
+H:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave_List.resources
+H:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLogin.resources
+H:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary.resources
+H:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary_List.resources
+H:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale.resources
+H:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmsplash.resources
+H:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSystemlock.resources
+H:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking.resources
+H:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking_List.resources
+H:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale_List.resources
+H:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.MDIParent1.resources
+H:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.Properties.Resources.resources
+H:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptAttendance.resources
+H:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptDepartment.resources
+H:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptEmployee.resources
+H:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptHoliday.resources
+H:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptLeave_details.resources
+H:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptSalary.resources
+H:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptScale.resources
+H:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptWorkingday.resources
+H:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence System.csproj.GenerateResource.Cache
+H:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\RdlCompile.cache
+H:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\RdlCompile.compiled
+J:\AMS\AMSr\AMSr\Attendence System\Attendence System\bin\Debug\Attendence System.exe.config
+J:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence System.exe
+J:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence System.pdb
+J:\AMS\AMSr\AMSr\Attendence System\Attendence System\bin\Debug\Attandance.mdb
+J:\AMS\AMSr\AMSr\Attendence System\Attendence System\bin\Debug\Database1.mdf
+J:\AMS\AMSr\AMSr\Attendence System\Attendence System\bin\Debug\Database1_log.ldf
+J:\AMS\AMSr\AMSr\Attendence System\Attendence System\bin\Debug\Attendence System.exe
+J:\AMS\AMSr\AMSr\Attendence System\Attendence System\bin\Debug\Attendence System.pdb
+J:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\ResolveAssemblyReference.cache
+J:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.Attendance.resources
+J:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmbackup_restore.resources
+J:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment_List.resources
+J:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee.resources
+J:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmChangePassword.resources
+J:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmCreateNewUser.resources
+J:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment.resources
+J:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee_List.resources
+J:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmexit.resources
+J:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday.resources
+J:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday_List.resources
+J:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave.resources
+J:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave_List.resources
+J:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLogin.resources
+J:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary.resources
+J:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary_List.resources
+J:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale.resources
+J:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmsplash.resources
+J:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSystemlock.resources
+J:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking.resources
+J:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking_List.resources
+J:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale_List.resources
+J:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.MDIParent1.resources
+J:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.Properties.Resources.resources
+J:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptAttendance.resources
+J:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptDepartment.resources
+J:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptEmployee.resources
+J:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptHoliday.resources
+J:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptLeave_details.resources
+J:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptSalary.resources
+J:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptScale.resources
+J:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptWorkingday.resources
+J:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence System.csproj.GenerateResource.Cache
+J:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\RdlCompile.cache
+J:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\RdlCompile.compiled
+G:\AMS\AMSr\AMSr\Attendence System\Attendence System\bin\Debug\Attendence System.exe.config
+G:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence System.exe
+G:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence System.pdb
+G:\AMS\AMSr\AMSr\Attendence System\Attendence System\bin\Debug\Attandance.mdb
+G:\AMS\AMSr\AMSr\Attendence System\Attendence System\bin\Debug\Database1.mdf
+G:\AMS\AMSr\AMSr\Attendence System\Attendence System\bin\Debug\Database1_log.ldf
+G:\AMS\AMSr\AMSr\Attendence System\Attendence System\bin\Debug\Attendence System.exe
+G:\AMS\AMSr\AMSr\Attendence System\Attendence System\bin\Debug\Attendence System.pdb
+G:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\ResolveAssemblyReference.cache
+G:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.Attendance.resources
+G:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendance_List.resources
+G:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmbackup_restore.resources
+G:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment_List.resources
+G:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee.resources
+G:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmChangePassword.resources
+G:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmCreateNewUser.resources
+G:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment.resources
+G:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee_List.resources
+G:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmexit.resources
+G:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday.resources
+G:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday_List.resources
+G:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave.resources
+G:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave_List.resources
+G:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLogin.resources
+G:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary.resources
+G:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary_List.resources
+G:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale.resources
+G:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmsplash.resources
+G:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSystemlock.resources
+G:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking.resources
+G:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking_List.resources
+G:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale_List.resources
+G:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.MDIParent1.resources
+G:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.Properties.Resources.resources
+G:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptAttendance.resources
+G:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptDepartment.resources
+G:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptEmployee.resources
+G:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptHoliday.resources
+G:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptLeave_details.resources
+G:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptSalary.resources
+G:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptScale.resources
+G:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence_System.rptWorkingday.resources
+G:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\Attendence System.csproj.GenerateResource.Cache
+G:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\RdlCompile.cache
+G:\AMS\AMSr\AMSr\Attendence System\Attendence System\obj\Debug\RdlCompile.compiled
+I:\Aarti & Reena\Attendence System\Attendence System\bin\Debug\Attendence System.exe.config
+I:\Aarti & Reena\Attendence System\Attendence System\obj\Debug\Attendence System.exe
+I:\Aarti & Reena\Attendence System\Attendence System\obj\Debug\Attendence System.pdb
+C:\Documents and Settings\ADMIN\Desktop\Attendence System\Attendence System\bin\Debug\Attendence System.exe.config
+C:\Documents and Settings\ADMIN\Desktop\Attendence System\Attendence System\obj\Debug\Attendence System.exe
+C:\Documents and Settings\ADMIN\Desktop\Attendence System\Attendence System\obj\Debug\Attendence System.pdb
+C:\Documents and Settings\ADMIN\Desktop\Attendence System\Attendence System\bin\Debug\Database1.mdf
+C:\Documents and Settings\ADMIN\Desktop\Attendence System\Attendence System\bin\Debug\Database1_log.ldf
+C:\Documents and Settings\ADMIN\Desktop\Attendence System\Attendence System\bin\Debug\Attandance.mdb
+C:\Documents and Settings\ADMIN\Desktop\Attendence System\Attendence System\bin\Debug\Attendence System.exe
+C:\Documents and Settings\ADMIN\Desktop\Attendence System\Attendence System\bin\Debug\Attendence System.pdb
+C:\Documents and Settings\ADMIN\Desktop\Attendence System\Attendence System\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ADMIN\Desktop\Attendence System\Attendence System\obj\Debug\Attendence_System.Attendance.resources
+C:\Documents and Settings\ADMIN\Desktop\Attendence System\Attendence System\obj\Debug\Attendence_System.frmbackup_restore.resources
+C:\Documents and Settings\ADMIN\Desktop\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment_List.resources
+C:\Documents and Settings\ADMIN\Desktop\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee.resources
+C:\Documents and Settings\ADMIN\Desktop\Attendence System\Attendence System\obj\Debug\Attendence_System.frmChangePassword.resources
+C:\Documents and Settings\ADMIN\Desktop\Attendence System\Attendence System\obj\Debug\Attendence_System.frmCreateNewUser.resources
+C:\Documents and Settings\ADMIN\Desktop\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment.resources
+C:\Documents and Settings\ADMIN\Desktop\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee_List.resources
+C:\Documents and Settings\ADMIN\Desktop\Attendence System\Attendence System\obj\Debug\Attendence_System.frmexit.resources
+C:\Documents and Settings\ADMIN\Desktop\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday.resources
+C:\Documents and Settings\ADMIN\Desktop\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday_List.resources
+C:\Documents and Settings\ADMIN\Desktop\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave.resources
+C:\Documents and Settings\ADMIN\Desktop\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave_List.resources
+C:\Documents and Settings\ADMIN\Desktop\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLogin.resources
+C:\Documents and Settings\ADMIN\Desktop\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary.resources
+C:\Documents and Settings\ADMIN\Desktop\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary_List.resources
+C:\Documents and Settings\ADMIN\Desktop\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale.resources
+C:\Documents and Settings\ADMIN\Desktop\Attendence System\Attendence System\obj\Debug\Attendence_System.frmsplash.resources
+C:\Documents and Settings\ADMIN\Desktop\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSystemlock.resources
+C:\Documents and Settings\ADMIN\Desktop\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking.resources
+C:\Documents and Settings\ADMIN\Desktop\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking_List.resources
+C:\Documents and Settings\ADMIN\Desktop\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale_List.resources
+C:\Documents and Settings\ADMIN\Desktop\Attendence System\Attendence System\obj\Debug\Attendence_System.MDIParent1.resources
+C:\Documents and Settings\ADMIN\Desktop\Attendence System\Attendence System\obj\Debug\Attendence_System.Properties.Resources.resources
+C:\Documents and Settings\ADMIN\Desktop\Attendence System\Attendence System\obj\Debug\Attendence_System.rptAttendance.resources
+C:\Documents and Settings\ADMIN\Desktop\Attendence System\Attendence System\obj\Debug\Attendence_System.rptAttendance1.resources
+C:\Documents and Settings\ADMIN\Desktop\Attendence System\Attendence System\obj\Debug\Attendence_System.rptDepartment.resources
+C:\Documents and Settings\ADMIN\Desktop\Attendence System\Attendence System\obj\Debug\Attendence_System.rptEmployee.resources
+C:\Documents and Settings\ADMIN\Desktop\Attendence System\Attendence System\obj\Debug\Attendence_System.rptHoliday.resources
+C:\Documents and Settings\ADMIN\Desktop\Attendence System\Attendence System\obj\Debug\Attendence_System.rptLeave_details.resources
+C:\Documents and Settings\ADMIN\Desktop\Attendence System\Attendence System\obj\Debug\Attendence_System.rptSalary.resources
+C:\Documents and Settings\ADMIN\Desktop\Attendence System\Attendence System\obj\Debug\Attendence_System.rptScale.resources
+C:\Documents and Settings\ADMIN\Desktop\Attendence System\Attendence System\obj\Debug\Attendence_System.rptWorkingday.resources
+C:\Documents and Settings\ADMIN\Desktop\Attendence System\Attendence System\obj\Debug\Attendence System.csproj.GenerateResource.Cache
+C:\Documents and Settings\ADMIN\Desktop\Attendence System\Attendence System\obj\Debug\RdlCompile.cache
+C:\Documents and Settings\ADMIN\Desktop\Attendence System\Attendence System\obj\Debug\RdlCompile.compiled
+C:\Documents and Settings\ADMIN\Desktop\Rinku\Attendence System\Attendence System\bin\Debug\Attendence System.exe.config
+C:\Documents and Settings\ADMIN\Desktop\Rinku\Attendence System\Attendence System\obj\Debug\Attendence System.exe
+C:\Documents and Settings\ADMIN\Desktop\Rinku\Attendence System\Attendence System\obj\Debug\Attendence System.pdb
+C:\Documents and Settings\ADMIN\Desktop\Rinku\Attendence System\Attendence System\bin\Debug\Database1.mdf
+C:\Documents and Settings\ADMIN\Desktop\Rinku\Attendence System\Attendence System\bin\Debug\Database1_log.ldf
+C:\Documents and Settings\ADMIN\Desktop\Rinku\Attendence System\Attendence System\bin\Debug\Attandance.mdb
+C:\Documents and Settings\ADMIN\Desktop\Rinku\Attendence System\Attendence System\bin\Debug\Attendence System.exe
+C:\Documents and Settings\ADMIN\Desktop\Rinku\Attendence System\Attendence System\bin\Debug\Attendence System.pdb
+C:\Documents and Settings\ADMIN\Desktop\Rinku\Attendence System\Attendence System\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ADMIN\Desktop\Rinku\Attendence System\Attendence System\obj\Debug\Attendence_System.Attendance.resources
+C:\Documents and Settings\ADMIN\Desktop\Rinku\Attendence System\Attendence System\obj\Debug\Attendence_System.frmbackup_restore.resources
+C:\Documents and Settings\ADMIN\Desktop\Rinku\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment_List.resources
+C:\Documents and Settings\ADMIN\Desktop\Rinku\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee.resources
+C:\Documents and Settings\ADMIN\Desktop\Rinku\Attendence System\Attendence System\obj\Debug\Attendence_System.frmChangePassword.resources
+C:\Documents and Settings\ADMIN\Desktop\Rinku\Attendence System\Attendence System\obj\Debug\Attendence_System.frmCreateNewUser.resources
+C:\Documents and Settings\ADMIN\Desktop\Rinku\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment.resources
+C:\Documents and Settings\ADMIN\Desktop\Rinku\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee_List.resources
+C:\Documents and Settings\ADMIN\Desktop\Rinku\Attendence System\Attendence System\obj\Debug\Attendence_System.frmexit.resources
+C:\Documents and Settings\ADMIN\Desktop\Rinku\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday.resources
+C:\Documents and Settings\ADMIN\Desktop\Rinku\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday_List.resources
+C:\Documents and Settings\ADMIN\Desktop\Rinku\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave.resources
+C:\Documents and Settings\ADMIN\Desktop\Rinku\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave_List.resources
+C:\Documents and Settings\ADMIN\Desktop\Rinku\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLogin.resources
+C:\Documents and Settings\ADMIN\Desktop\Rinku\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary.resources
+C:\Documents and Settings\ADMIN\Desktop\Rinku\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary_List.resources
+C:\Documents and Settings\ADMIN\Desktop\Rinku\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale.resources
+C:\Documents and Settings\ADMIN\Desktop\Rinku\Attendence System\Attendence System\obj\Debug\Attendence_System.frmsplash.resources
+C:\Documents and Settings\ADMIN\Desktop\Rinku\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSystemlock.resources
+C:\Documents and Settings\ADMIN\Desktop\Rinku\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking.resources
+C:\Documents and Settings\ADMIN\Desktop\Rinku\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking_List.resources
+C:\Documents and Settings\ADMIN\Desktop\Rinku\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale_List.resources
+C:\Documents and Settings\ADMIN\Desktop\Rinku\Attendence System\Attendence System\obj\Debug\Attendence_System.MDIParent1.resources
+C:\Documents and Settings\ADMIN\Desktop\Rinku\Attendence System\Attendence System\obj\Debug\Attendence_System.Properties.Resources.resources
+C:\Documents and Settings\ADMIN\Desktop\Rinku\Attendence System\Attendence System\obj\Debug\Attendence_System.rptAttendance.resources
+C:\Documents and Settings\ADMIN\Desktop\Rinku\Attendence System\Attendence System\obj\Debug\Attendence_System.rptAttendance1.resources
+C:\Documents and Settings\ADMIN\Desktop\Rinku\Attendence System\Attendence System\obj\Debug\Attendence_System.rptDepartment.resources
+C:\Documents and Settings\ADMIN\Desktop\Rinku\Attendence System\Attendence System\obj\Debug\Attendence_System.rptEmployee.resources
+C:\Documents and Settings\ADMIN\Desktop\Rinku\Attendence System\Attendence System\obj\Debug\Attendence_System.rptHoliday.resources
+C:\Documents and Settings\ADMIN\Desktop\Rinku\Attendence System\Attendence System\obj\Debug\Attendence_System.rptLeave_details.resources
+C:\Documents and Settings\ADMIN\Desktop\Rinku\Attendence System\Attendence System\obj\Debug\Attendence_System.rptSalary.resources
+C:\Documents and Settings\ADMIN\Desktop\Rinku\Attendence System\Attendence System\obj\Debug\Attendence_System.rptScale.resources
+C:\Documents and Settings\ADMIN\Desktop\Rinku\Attendence System\Attendence System\obj\Debug\Attendence_System.rptWorkingday.resources
+C:\Documents and Settings\ADMIN\Desktop\Rinku\Attendence System\Attendence System\obj\Debug\Attendence System.csproj.GenerateResource.Cache
+C:\Documents and Settings\ADMIN\Desktop\Rinku\Attendence System\Attendence System\obj\Debug\RdlCompile.cache
+C:\Documents and Settings\ADMIN\Desktop\Rinku\Attendence System\Attendence System\obj\Debug\RdlCompile.compiled
+G:\Attendence System\Attendence System\bin\Debug\Database1.mdf
+G:\Attendence System\Attendence System\bin\Debug\Database1_log.ldf
+G:\Attendence System\Attendence System\bin\Debug\Attandance.mdb
+G:\Attendence System\Attendence System\bin\Debug\Attendence System.exe
+G:\Attendence System\Attendence System\bin\Debug\Attendence System.pdb
+G:\Attendence System\Attendence System\obj\Debug\ResolveAssemblyReference.cache
+G:\Attendence System\Attendence System\obj\Debug\Attendence_System.Attendance.resources
+G:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmbackup_restore.resources
+G:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment_List.resources
+G:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee.resources
+G:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmChangePassword.resources
+G:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmCreateNewUser.resources
+G:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment.resources
+G:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee_List.resources
+G:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmexit.resources
+G:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday.resources
+G:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday_List.resources
+G:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave.resources
+G:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave_List.resources
+G:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLogin.resources
+G:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary.resources
+G:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary_List.resources
+G:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale.resources
+G:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmsplash.resources
+G:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSystemlock.resources
+G:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking.resources
+G:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking_List.resources
+G:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale_List.resources
+G:\Attendence System\Attendence System\obj\Debug\Attendence_System.MDIParent1.resources
+G:\Attendence System\Attendence System\obj\Debug\Attendence_System.Properties.Resources.resources
+G:\Attendence System\Attendence System\obj\Debug\Attendence_System.rptAttendance.resources
+G:\Attendence System\Attendence System\obj\Debug\Attendence_System.rptAttendance1.resources
+G:\Attendence System\Attendence System\obj\Debug\Attendence_System.rptDepartment.resources
+G:\Attendence System\Attendence System\obj\Debug\Attendence_System.rptEmployee.resources
+G:\Attendence System\Attendence System\obj\Debug\Attendence_System.rptHoliday.resources
+G:\Attendence System\Attendence System\obj\Debug\Attendence_System.rptLeave_details.resources
+G:\Attendence System\Attendence System\obj\Debug\Attendence_System.rptSalary.resources
+G:\Attendence System\Attendence System\obj\Debug\Attendence_System.rptScale.resources
+G:\Attendence System\Attendence System\obj\Debug\Attendence_System.rptWorkingday.resources
+G:\Attendence System\Attendence System\obj\Debug\Attendence System.csproj.GenerateResource.Cache
+G:\Attendence System\Attendence System\obj\Debug\RdlCompile.cache
+G:\Attendence System\Attendence System\obj\Debug\RdlCompile.compiled
+H:\Attendence System\Attendence System\bin\Debug\Attendence System.exe.config
+H:\Attendence System\Attendence System\obj\Debug\Attendence System.exe
+H:\Attendence System\Attendence System\obj\Debug\Attendence System.pdb
+H:\Attendence System\Attendence System\bin\Debug\Database1.mdf
+H:\Attendence System\Attendence System\bin\Debug\Database1_log.ldf
+H:\Attendence System\Attendence System\bin\Debug\Attandance.mdb
+H:\Attendence System\Attendence System\bin\Debug\Attendence System.exe
+H:\Attendence System\Attendence System\bin\Debug\Attendence System.pdb
+H:\Attendence System\Attendence System\obj\Debug\ResolveAssemblyReference.cache
+H:\Attendence System\Attendence System\obj\Debug\Attendence_System.Attendance.resources
+H:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmbackup_restore.resources
+H:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment_List.resources
+H:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee.resources
+H:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmChangePassword.resources
+H:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmCreateNewUser.resources
+H:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment.resources
+H:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee_List.resources
+H:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmexit.resources
+H:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday.resources
+H:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday_List.resources
+H:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave.resources
+H:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave_List.resources
+H:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLogin.resources
+H:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary.resources
+H:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary_List.resources
+H:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale.resources
+H:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmsplash.resources
+H:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSystemlock.resources
+H:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking.resources
+H:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking_List.resources
+H:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale_List.resources
+H:\Attendence System\Attendence System\obj\Debug\Attendence_System.MDIParent1.resources
+H:\Attendence System\Attendence System\obj\Debug\Attendence_System.Properties.Resources.resources
+H:\Attendence System\Attendence System\obj\Debug\Attendence_System.rptAttendance.resources
+H:\Attendence System\Attendence System\obj\Debug\Attendence_System.rptAttendance1.resources
+H:\Attendence System\Attendence System\obj\Debug\Attendence_System.rptDepartment.resources
+H:\Attendence System\Attendence System\obj\Debug\Attendence_System.rptEmployee.resources
+H:\Attendence System\Attendence System\obj\Debug\Attendence_System.rptHoliday.resources
+H:\Attendence System\Attendence System\obj\Debug\Attendence_System.rptLeave_details.resources
+H:\Attendence System\Attendence System\obj\Debug\Attendence_System.rptSalary.resources
+H:\Attendence System\Attendence System\obj\Debug\Attendence_System.rptScale.resources
+H:\Attendence System\Attendence System\obj\Debug\Attendence_System.rptWorkingday.resources
+H:\Attendence System\Attendence System\obj\Debug\Attendence System.csproj.GenerateResource.Cache
+H:\Attendence System\Attendence System\obj\Debug\RdlCompile.cache
+H:\Attendence System\Attendence System\obj\Debug\RdlCompile.compiled
+H:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendence.resources
+H:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendance_List.resources
+D:\Attendence System\Attendence System\bin\Debug\Database1.mdf
+D:\Attendence System\Attendence System\bin\Debug\Database1_log.ldf
+D:\Attendence System\Attendence System\bin\Debug\Attandance.mdb
+D:\Attendence System\Attendence System\bin\Debug\Attendence System.exe.config
+D:\Attendence System\Attendence System\bin\Debug\Attendence System.exe
+D:\Attendence System\Attendence System\bin\Debug\Attendence System.pdb
+D:\Attendence System\Attendence System\obj\Debug\ResolveAssemblyReference.cache
+D:\Attendence System\Attendence System\obj\Debug\Attendence_System.Attendance.resources
+D:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendance.resources
+D:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmAttendance_List.resources
+D:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmbackup_restore.resources
+D:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment_List.resources
+D:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee.resources
+D:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmChangePassword.resources
+D:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmCreateNewUser.resources
+D:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmDepartment.resources
+D:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmEmployee_List.resources
+D:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmexit.resources
+D:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday.resources
+D:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmHoliday_List.resources
+D:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave.resources
+D:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLeave_List.resources
+D:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmLogin.resources
+D:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary.resources
+D:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSalary_List.resources
+D:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale.resources
+D:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmsplash.resources
+D:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmSystemlock.resources
+D:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking.resources
+D:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmWorking_List.resources
+D:\Attendence System\Attendence System\obj\Debug\Attendence_System.frmScale_List.resources
+D:\Attendence System\Attendence System\obj\Debug\Attendence_System.MDIParent1.resources
+D:\Attendence System\Attendence System\obj\Debug\Attendence_System.Properties.Resources.resources
+D:\Attendence System\Attendence System\obj\Debug\Attendence_System.rptAttendance.resources
+D:\Attendence System\Attendence System\obj\Debug\Attendence_System.rptAttendance1.resources
+D:\Attendence System\Attendence System\obj\Debug\Attendence_System.rptDepartment.resources
+D:\Attendence System\Attendence System\obj\Debug\Attendence_System.rptEmployee.resources
+D:\Attendence System\Attendence System\obj\Debug\Attendence_System.rptHoliday.resources
+D:\Attendence System\Attendence System\obj\Debug\Attendence_System.rptLeave_details.resources
+D:\Attendence System\Attendence System\obj\Debug\Attendence_System.rptSalary.resources
+D:\Attendence System\Attendence System\obj\Debug\Attendence_System.rptScale.resources
+D:\Attendence System\Attendence System\obj\Debug\Attendence_System.rptWorkingday.resources
+D:\Attendence System\Attendence System\obj\Debug\Attendence System.csproj.GenerateResource.Cache
+D:\Attendence System\Attendence System\obj\Debug\RdlCompile.cache
+D:\Attendence System\Attendence System\obj\Debug\RdlCompile.compiled
+D:\Attendence System\Attendence System\obj\Debug\Attendence System.exe
+D:\Attendence System\Attendence System\obj\Debug\Attendence System.pdb
+D:\Attendence System\Attendence System\obj\Debug\Attendence_System.rpt_1.resources
+D:\RA\Attendence System\bin\Debug\Database1.mdf
+D:\RA\Attendence System\bin\Debug\Database1_log.ldf
+D:\RA\Attendence System\bin\Debug\Attandance.mdb
+D:\RA\Attendence System\bin\Debug\Attendence System.exe.config
+D:\RA\Attendence System\bin\Debug\Attendence System.exe
+D:\RA\Attendence System\bin\Debug\Attendence System.pdb
+D:\RA\Attendence System\obj\Debug\ResolveAssemblyReference.cache
+D:\RA\Attendence System\obj\Debug\Attendence_System.Attendance.resources
+D:\RA\Attendence System\obj\Debug\Attendence_System.frmAttendance.resources
+D:\RA\Attendence System\obj\Debug\Attendence_System.frmAttendance_List.resources
+D:\RA\Attendence System\obj\Debug\Attendence_System.frmbackup_restore.resources
+D:\RA\Attendence System\obj\Debug\Attendence_System.frmDepartment_List.resources
+D:\RA\Attendence System\obj\Debug\Attendence_System.frmEmployee.resources
+D:\RA\Attendence System\obj\Debug\Attendence_System.frmChangePassword.resources
+D:\RA\Attendence System\obj\Debug\Attendence_System.frmCreateNewUser.resources
+D:\RA\Attendence System\obj\Debug\Attendence_System.frmDepartment.resources
+D:\RA\Attendence System\obj\Debug\Attendence_System.frmEmployee_List.resources
+D:\RA\Attendence System\obj\Debug\Attendence_System.frmexit.resources
+D:\RA\Attendence System\obj\Debug\Attendence_System.frmHoliday.resources
+D:\RA\Attendence System\obj\Debug\Attendence_System.frmHoliday_List.resources
+D:\RA\Attendence System\obj\Debug\Attendence_System.frmLeave.resources
+D:\RA\Attendence System\obj\Debug\Attendence_System.frmLeave_List.resources
+D:\RA\Attendence System\obj\Debug\Attendence_System.frmLogin.resources
+D:\RA\Attendence System\obj\Debug\Attendence_System.frmSalary.resources
+D:\RA\Attendence System\obj\Debug\Attendence_System.frmSalary_List.resources
+D:\RA\Attendence System\obj\Debug\Attendence_System.frmScale.resources
+D:\RA\Attendence System\obj\Debug\Attendence_System.frmsplash.resources
+D:\RA\Attendence System\obj\Debug\Attendence_System.frmSystemlock.resources
+D:\RA\Attendence System\obj\Debug\Attendence_System.frmWorking.resources
+D:\RA\Attendence System\obj\Debug\Attendence_System.frmWorking_List.resources
+D:\RA\Attendence System\obj\Debug\Attendence_System.frmScale_List.resources
+D:\RA\Attendence System\obj\Debug\Attendence_System.MDIParent1.resources
+D:\RA\Attendence System\obj\Debug\Attendence_System.Properties.Resources.resources
+D:\RA\Attendence System\obj\Debug\Attendence_System.rptAttendance.resources
+D:\RA\Attendence System\obj\Debug\Attendence_System.rptAttendance1.resources
+D:\RA\Attendence System\obj\Debug\Attendence_System.rptDepartment.resources
+D:\RA\Attendence System\obj\Debug\Attendence_System.rptEmployee.resources
+D:\RA\Attendence System\obj\Debug\Attendence_System.rptHoliday.resources
+D:\RA\Attendence System\obj\Debug\Attendence_System.rptLeave_details.resources
+D:\RA\Attendence System\obj\Debug\Attendence_System.rptSalary.resources
+D:\RA\Attendence System\obj\Debug\Attendence_System.rptScale.resources
+D:\RA\Attendence System\obj\Debug\Attendence_System.rptWorkingday.resources
+D:\RA\Attendence System\obj\Debug\Attendence_System.rpt_1.resources
+D:\RA\Attendence System\obj\Debug\Attendence System.csproj.GenerateResource.Cache
+D:\RA\Attendence System\obj\Debug\RdlCompile.cache
+D:\RA\Attendence System\obj\Debug\RdlCompile.compiled
+D:\RA\Attendence System\obj\Debug\Attendence System.exe
+D:\RA\Attendence System\obj\Debug\Attendence System.pdb
+I:\My Project\Project\Attendence System\bin\Debug\Attendence System.exe.config
+I:\My Project\Project\Attendence System\obj\Debug\Attendence System.exe
+I:\My Project\Project\Attendence System\obj\Debug\Attendence System.pdb
+I:\My Project\Project\Attendence System\bin\Debug\Database1.mdf
+I:\My Project\Project\Attendence System\bin\Debug\Database1_log.ldf
+I:\My Project\Project\Attendence System\bin\Debug\Attandance.mdb
+I:\My Project\Project\Attendence System\bin\Debug\Attendence System.exe
+I:\My Project\Project\Attendence System\bin\Debug\Attendence System.pdb
+I:\My Project\Project\Attendence System\obj\Debug\ResolveAssemblyReference.cache
+I:\My Project\Project\Attendence System\obj\Debug\Attendence_System.Attendance.resources
+I:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmAttendance.resources
+I:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmAttendance_List.resources
+I:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmbackup_restore.resources
+I:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmDepartment_List.resources
+I:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmEmployee.resources
+I:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmChangePassword.resources
+I:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmCreateNewUser.resources
+I:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmDepartment.resources
+I:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmEmployee_List.resources
+I:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmexit.resources
+I:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmHoliday.resources
+I:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmHoliday_List.resources
+I:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmLeave.resources
+I:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmLeave_List.resources
+I:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmLogin.resources
+I:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmSalary.resources
+I:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmSalary_List.resources
+I:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmScale.resources
+I:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmsplash.resources
+I:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmSystemlock.resources
+I:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmWorking.resources
+I:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmWorking_List.resources
+I:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmScale_List.resources
+I:\My Project\Project\Attendence System\obj\Debug\Attendence_System.MDIParent1.resources
+I:\My Project\Project\Attendence System\obj\Debug\Attendence_System.Properties.Resources.resources
+I:\My Project\Project\Attendence System\obj\Debug\Attendence_System.rptAttendance.resources
+I:\My Project\Project\Attendence System\obj\Debug\Attendence_System.rptAttendance1.resources
+I:\My Project\Project\Attendence System\obj\Debug\Attendence_System.rptDepartment.resources
+I:\My Project\Project\Attendence System\obj\Debug\Attendence_System.rptEmployee.resources
+I:\My Project\Project\Attendence System\obj\Debug\Attendence_System.rptHoliday.resources
+I:\My Project\Project\Attendence System\obj\Debug\Attendence_System.rptLeave_details.resources
+I:\My Project\Project\Attendence System\obj\Debug\Attendence_System.rptSalary.resources
+I:\My Project\Project\Attendence System\obj\Debug\Attendence_System.rptScale.resources
+I:\My Project\Project\Attendence System\obj\Debug\Attendence_System.rptWorkingday.resources
+I:\My Project\Project\Attendence System\obj\Debug\Attendence_System.rpt_1.resources
+I:\My Project\Project\Attendence System\obj\Debug\Attendence System.csproj.GenerateResource.Cache
+I:\My Project\Project\Attendence System\obj\Debug\RdlCompile.cache
+I:\My Project\Project\Attendence System\obj\Debug\RdlCompile.compiled
+H:\My Project\Project\Attendence System\bin\Debug\Attendence System.exe.config
+H:\My Project\Project\Attendence System\obj\Debug\Attendence System.exe
+H:\My Project\Project\Attendence System\obj\Debug\Attendence System.pdb
+H:\My Project\Project\Attendence System\bin\Debug\Database1.mdf
+H:\My Project\Project\Attendence System\bin\Debug\Database1_log.ldf
+H:\My Project\Project\Attendence System\bin\Debug\Attandance.mdb
+H:\My Project\Project\Attendence System\bin\Debug\Attendence System.exe
+H:\My Project\Project\Attendence System\bin\Debug\Attendence System.pdb
+H:\My Project\Project\Attendence System\obj\Debug\ResolveAssemblyReference.cache
+H:\My Project\Project\Attendence System\obj\Debug\Attendence_System.Attendance.resources
+H:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmAttendance.resources
+H:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmAttendance_List.resources
+H:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmbackup_restore.resources
+H:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmDepartment_List.resources
+H:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmEmployee.resources
+H:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmChangePassword.resources
+H:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmCreateNewUser.resources
+H:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmDepartment.resources
+H:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmEmployee_List.resources
+H:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmexit.resources
+H:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmHoliday.resources
+H:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmHoliday_List.resources
+H:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmLeave.resources
+H:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmLeave_List.resources
+H:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmLogin.resources
+H:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmSalary.resources
+H:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmSalary_List.resources
+H:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmScale.resources
+H:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmsplash.resources
+H:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmSystemlock.resources
+H:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmWorking.resources
+H:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmWorking_List.resources
+H:\My Project\Project\Attendence System\obj\Debug\Attendence_System.frmScale_List.resources
+H:\My Project\Project\Attendence System\obj\Debug\Attendence_System.MDIParent1.resources
+H:\My Project\Project\Attendence System\obj\Debug\Attendence_System.Properties.Resources.resources
+H:\My Project\Project\Attendence System\obj\Debug\Attendence_System.rptAttendance.resources
+H:\My Project\Project\Attendence System\obj\Debug\Attendence_System.rptAttendance1.resources
+H:\My Project\Project\Attendence System\obj\Debug\Attendence_System.rptDepartment.resources
+H:\My Project\Project\Attendence System\obj\Debug\Attendence_System.rptEmployee.resources
+H:\My Project\Project\Attendence System\obj\Debug\Attendence_System.rptHoliday.resources
+H:\My Project\Project\Attendence System\obj\Debug\Attendence_System.rptLeave_details.resources
+H:\My Project\Project\Attendence System\obj\Debug\Attendence_System.rptSalary.resources
+H:\My Project\Project\Attendence System\obj\Debug\Attendence_System.rptScale.resources
+H:\My Project\Project\Attendence System\obj\Debug\Attendence_System.rptWorkingday.resources
+H:\My Project\Project\Attendence System\obj\Debug\Attendence_System.rpt_1.resources
+H:\My Project\Project\Attendence System\obj\Debug\Attendence System.csproj.GenerateResource.Cache
+H:\My Project\Project\Attendence System\obj\Debug\RdlCompile.cache
+H:\My Project\Project\Attendence System\obj\Debug\RdlCompile.compiled

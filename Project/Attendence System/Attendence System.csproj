@@ -1,0 +1,912 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C6CD573E-F643-4DEC-A4DE-B88A323DF3C5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Attendence_System</RootNamespace>
+    <AssemblyName>Attendence System</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Attendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Attendance.designer.cs">
+      <DependentUpon>Attendance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Database.cs" />
+    <Compile Include="Database1DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Database1DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Database1DataSet11.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Database1DataSet11.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Database1DataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Database1DataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Database1DataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Database1DataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Database1DataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Database1DataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Database1DataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Database1DataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Database1DataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Database1DataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Database1DataSet7.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Database1DataSet7.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Database1DataSet8.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Database1DataSet8.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="departmentDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>departmentDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="depDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>depDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Form1rptEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1rptEmployee.Designer.cs">
+      <DependentUpon>Form1rptEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAttendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAttendance.Designer.cs">
+      <DependentUpon>frmAttendance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAttendance_List.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAttendance_List.Designer.cs">
+      <DependentUpon>frmAttendance_List.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmbackup_restore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmbackup_restore.designer.cs">
+      <DependentUpon>frmbackup_restore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDepartment_List.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDepartment_List.Designer.cs">
+      <DependentUpon>frmDepartment_List.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmployee.Designer.cs">
+      <DependentUpon>frmEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChangePassword.Designer.cs">
+      <DependentUpon>frmChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCreateNewUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCreateNewUser.Designer.cs">
+      <DependentUpon>frmCreateNewUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDepartment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDepartment.Designer.cs">
+      <DependentUpon>frmDepartment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmployee_List.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmployee_List.Designer.cs">
+      <DependentUpon>frmEmployee_List.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmexit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmexit.Designer.cs">
+      <DependentUpon>frmexit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHoliday.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHoliday.Designer.cs">
+      <DependentUpon>frmHoliday.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHoliday_List.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHoliday_List.Designer.cs">
+      <DependentUpon>frmHoliday_List.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLeave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLeave.Designer.cs">
+      <DependentUpon>frmLeave.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLeave_List.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLeave_List.Designer.cs">
+      <DependentUpon>frmLeave_List.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSalary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSalary.Designer.cs">
+      <DependentUpon>frmSalary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSalary_List.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSalary_List.Designer.cs">
+      <DependentUpon>frmSalary_List.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmScale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmScale.Designer.cs">
+      <DependentUpon>frmScale.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmsplash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmsplash.Designer.cs">
+      <DependentUpon>frmsplash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSystemlock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSystemlock.Designer.cs">
+      <DependentUpon>frmSystemlock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmWorking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmWorking.Designer.cs">
+      <DependentUpon>frmWorking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmWorking_List.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmWorking_List.Designer.cs">
+      <DependentUpon>frmWorking_List.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmScale_List.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmScale_List.Designer.cs">
+      <DependentUpon>frmScale_List.cs</DependentUpon>
+    </Compile>
+    <Compile Include="holidayDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>holidayDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="leaveDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>leaveDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MDIParent1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIParent1.Designer.cs">
+      <DependentUpon>MDIParent1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Attenance Report.rdlc" />
+    <EmbeddedResource Include="Attendance Report.rdlc" />
+    <EmbeddedResource Include="Attendance Report1.rdlc" />
+    <EmbeddedResource Include="Attendance.resx">
+      <DependentUpon>Attendance.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Department Report.rdlc" />
+    <EmbeddedResource Include="Employee Report.rdlc" />
+    <EmbeddedResource Include="frmAttendance.resx">
+      <DependentUpon>frmAttendance.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAttendance_List.resx">
+      <DependentUpon>frmAttendance_List.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmbackup_restore.resx">
+      <DependentUpon>frmbackup_restore.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDepartment_List.resx">
+      <DependentUpon>frmDepartment_List.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmployee.resx">
+      <DependentUpon>frmEmployee.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChangePassword.resx">
+      <DependentUpon>frmChangePassword.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCreateNewUser.resx">
+      <DependentUpon>frmCreateNewUser.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDepartment.resx">
+      <DependentUpon>frmDepartment.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmployee_List.resx">
+      <DependentUpon>frmEmployee_List.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmexit.resx">
+      <DependentUpon>frmexit.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHoliday.resx">
+      <DependentUpon>frmHoliday.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHoliday_List.resx">
+      <DependentUpon>frmHoliday_List.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLeave.resx">
+      <DependentUpon>frmLeave.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLeave_List.resx">
+      <DependentUpon>frmLeave_List.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSalary.resx">
+      <DependentUpon>frmSalary.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSalary_List.resx">
+      <DependentUpon>frmSalary_List.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmScale.resx">
+      <DependentUpon>frmScale.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmsplash.resx">
+      <DependentUpon>frmsplash.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSystemlock.resx">
+      <DependentUpon>frmSystemlock.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWorking.resx">
+      <DependentUpon>frmWorking.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWorking_List.resx">
+      <DependentUpon>frmWorking_List.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmScale_List.resx">
+      <DependentUpon>frmScale_List.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Holiday Report.rdlc" />
+    <EmbeddedResource Include="Leave_details Report.rdlc" />
+    <EmbeddedResource Include="MDIParent1.resx">
+      <DependentUpon>MDIParent1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Report2.rdlc" />
+    <EmbeddedResource Include="rptAttendance.resx">
+      <DependentUpon>rptAttendance.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptAttendance1.resx">
+      <DependentUpon>rptAttendance1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptDepartment.resx">
+      <DependentUpon>rptDepartment.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptEmployee.resx">
+      <DependentUpon>rptEmployee.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptHoliday.resx">
+      <DependentUpon>rptHoliday.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptLeave_details.resx">
+      <DependentUpon>rptLeave_details.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptSalary.resx">
+      <DependentUpon>rptSalary.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptScale.resx">
+      <DependentUpon>rptScale.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptWorkingday.resx">
+      <DependentUpon>rptWorkingday.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rpt_1.resx">
+      <DependentUpon>rpt_1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salary Report.rdlc" />
+    <EmbeddedResource Include="Scale Report.rdlc" />
+    <EmbeddedResource Include="Working Report.rdlc" />
+    <EmbeddedResource Include="Workingday  Report.rdlc" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="rptAttendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rptAttendance.Designer.cs">
+      <DependentUpon>rptAttendance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptAttendance1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rptAttendance1.Designer.cs">
+      <DependentUpon>rptAttendance1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptDepartment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rptDepartment.Designer.cs">
+      <DependentUpon>rptDepartment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rptEmployee.Designer.cs">
+      <DependentUpon>rptEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptHoliday.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rptHoliday.Designer.cs">
+      <DependentUpon>rptHoliday.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptLeave_details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rptLeave_details.Designer.cs">
+      <DependentUpon>rptLeave_details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptSalary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rptSalary.Designer.cs">
+      <DependentUpon>rptSalary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptScale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rptScale.Designer.cs">
+      <DependentUpon>rptScale.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptWorkingday.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rptWorkingday.Designer.cs">
+      <DependentUpon>rptWorkingday.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rpt_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rpt_1.Designer.cs">
+      <DependentUpon>rpt_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="R_attenanceDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>R_attenanceDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SalaryDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SalaryDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="scaleDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>scaleDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="workingDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>workingDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="workingDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>workingDataSet1.xsd</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Attandance.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Database1.mdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Database1_log.ldf">
+      <DependentUpon>Database1.mdf</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\login_banner.jpg" />
+    <None Include="Database1DataSet7.xsc">
+      <DependentUpon>Database1DataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="Database1DataSet7.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Database1DataSet7.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Database1DataSet7.xss">
+      <DependentUpon>Database1DataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="Database1DataSet8.xsc">
+      <DependentUpon>Database1DataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="Database1DataSet8.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Database1DataSet8.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Database1DataSet8.xss">
+      <DependentUpon>Database1DataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\Imac-Gray-Background-1-6OZHQ55CKW-1280x8004.jpg" />
+    <None Include="Resources\Imac-Gray-Background-1-6OZHQ55CKW-1280x8003.jpg" />
+    <None Include="Database1DataSet5.xsc">
+      <DependentUpon>Database1DataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="Database1DataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Database1DataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Database1DataSet5.xss">
+      <DependentUpon>Database1DataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="Database1DataSet6.xsc">
+      <DependentUpon>Database1DataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="Database1DataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Database1DataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Database1DataSet6.xss">
+      <DependentUpon>Database1DataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\login.gif" />
+    <None Include="Resources\Imac-Gray-Background-1-6OZHQ55CKW-1280x8002.jpg" />
+    <None Include="Resources\Simple_Background___Blue_by_kawaiifaerie1.jpg" />
+    <None Include="Resources\simple-purple-wallpaper.jpg" />
+    <None Include="Resources\bkgd.jpg" />
+    <None Include="Resources\Background.jpg" />
+    <None Include="Resources\109-aerostream-wallpaper-pack-1280x800-customity.jpg" />
+    <None Include="Resources\winsvn-wpp.jpg" />
+    <None Include="Resources\Simple_Background___Blue_by_kawaiifaerie.jpg" />
+    <None Include="Resources\Imac-Gray-Background-1-6OZHQ55CKW-1280x8001.jpg" />
+    <None Include="Resources\Imac-Gray-Background-1-6OZHQ55CKW-1280x800.jpg" />
+    <None Include="Resources\uuuuuuuuuuuuuuuu.jpg" />
+    <None Include="Resources\backgroundDefault.jpg" />
+    <None Include="Resources\attendance_management.jpg" />
+    <None Include="Resources\gfhhjuk2.jpg" />
+    <None Include="Resources\rrrrrrrrrrrg17.jpg" />
+    <None Include="Resources\rrrrrrrrrrrg16.jpg" />
+    <None Include="Resources\rrrrrrrrrrrg15.jpg" />
+    <None Include="Resources\rrrrrrrrrrrg14.jpg" />
+    <None Include="Resources\rrrrrrrrrrrg13.jpg" />
+    <None Include="Resources\rrrrrrrrrrrg12.jpg" />
+    <None Include="Resources\rrrrrrrrrrrg11.jpg" />
+    <None Include="Resources\rrrrrrrrrrrg10.jpg" />
+    <None Include="Resources\rrrrrrrrrrrg9.jpg" />
+    <None Include="Resources\rrrrrrrrrrrg8.jpg" />
+    <None Include="Resources\rrrrrrrrrrrg7.jpg" />
+    <None Include="Resources\rrrrrrrrrrrg6.jpg" />
+    <None Include="Resources\rrrrrrrrrrrg5.jpg" />
+    <None Include="Resources\rrrrrrrrrrrg4.jpg" />
+    <None Include="Resources\rrrrrrrrrrrg3.jpg" />
+    <None Include="Resources\rrrrrrrrrrrg2.jpg" />
+    <None Include="Resources\rrrrrrrrrrrg1.jpg" />
+    <None Include="Resources\gfhhjuk1.jpg" />
+    <None Include="Resources\yyyyyyyyyy.jpg" />
+    <None Include="Resources\rrrrrrrrrrrg.jpg" />
+    <None Include="Resources\dfdgfdgdf1.jpg" />
+    <None Include="Resources\dfdgfdgdf.jpg" />
+    <None Include="Resources\gfhhjuk.jpg" />
+    <None Include="Resources\hhh8.jpeg" />
+    <None Include="Resources\hhh7.jpeg" />
+    <None Include="Resources\kkkkkkkkkkkkkkkkkk1.jpg" />
+    <None Include="Database1DataSet4.xsc">
+      <DependentUpon>Database1DataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="Database1DataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Database1DataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Database1DataSet4.xss">
+      <DependentUpon>Database1DataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\kkkkkkkkkkkkkkkkkk.jpg" />
+    <None Include="main.jpg" />
+    <None Include="Resources\eeeeeeeeee.jpeg" />
+    <None Include="Resources\7991baa505c9ce384ba0570f7967a0eb.th.jpg" />
+    <None Include="Resources\tttttttt1.jpeg" />
+    <None Include="Resources\ra.jpg" />
+    <None Include="Resources\yyyyyyyyyyy2.jpeg" />
+    <None Include="Resources\yyyyyyyyyyy1.jpeg" />
+    <None Include="Resources\yth.jpeg" />
+    <None Include="Resources\ttttttt3.jpeg" />
+    <None Include="Resources\ttttttt2.jpeg" />
+    <None Include="Resources\ttttttt1.jpeg" />
+    <None Include="Resources\iop[iop[.jpeg" />
+    <None Include="Resources\yyyyyyyyyyy.jpeg" />
+    <None Include="Resources\uhhhh1.jpeg" />
+    <None Include="Resources\11.jpeg" />
+    <None Include="Resources\4444.jpeg" />
+    <None Include="Resources\hhh6.jpeg" />
+    <None Include="Resources\bgbgbgbgbg.jpg" />
+    <None Include="Resources\+.jpeg" />
+    <None Include="Resources\uhhhh.jpeg" />
+    <None Include="Database1DataSet11.xsc">
+      <DependentUpon>Database1DataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="Database1DataSet11.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Database1DataSet11.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Database1DataSet11.xss">
+      <DependentUpon>Database1DataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="Database1DataSet2.xsc">
+      <DependentUpon>Database1DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Database1DataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Database1DataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Database1DataSet2.xss">
+      <DependentUpon>Database1DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Database1DataSet3.xsc">
+      <DependentUpon>Database1DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="Database1DataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Database1DataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Database1DataSet3.xss">
+      <DependentUpon>Database1DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="leaveDataSet.xsc">
+      <DependentUpon>leaveDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="leaveDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>leaveDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="leaveDataSet.xss">
+      <DependentUpon>leaveDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\Purple_And_Blue.jpg" />
+    <None Include="Resources\Copy of hhh11.jpeg" />
+    <None Include="Resources\Copy of hhh10.jpeg" />
+    <None Include="Resources\Copy of hhh9.jpeg" />
+    <None Include="Resources\Copy of hhh8.jpeg" />
+    <None Include="Resources\Copy of hhh7.jpeg" />
+    <None Include="Resources\Copy of hhh6.jpeg" />
+    <None Include="Resources\hhh5.jpeg" />
+    <None Include="Resources\Copy of hhh5.jpeg" />
+    <None Include="Resources\Copy of hhh4.jpeg" />
+    <None Include="Resources\Copy of hhh3.jpeg" />
+    <None Include="Resources\Copy of hhh2.jpeg" />
+    <None Include="Resources\hhh4.jpeg" />
+    <None Include="Resources\Copy of hhh1.jpeg" />
+    <None Include="Resources\Copy of hhh.jpeg" />
+    <None Include="Resources\hhh3.jpeg" />
+    <None Include="Resources\hhh2.jpeg" />
+    <None Include="Resources\hhh1.jpeg" />
+    <None Include="Resources\hhh.jpeg" />
+    <None Include="Resources\imagesCAJD6LKU.jpg" />
+    <None Include="Resources\ttttttt.jpeg" />
+    <None Include="Resources\final.jpg" />
+    <None Include="Resources\222222222221.jpeg" />
+    <None Include="Resources\22222222.jpeg" />
+    <None Include="Resources\5555555555.jpeg" />
+    <None Include="Resources\rtttttt.jpeg" />
+    <None Include="Resources\tttttttt.jpeg" />
+    <None Include="Resources\666666666.jpeg" />
+    <None Include="Resources\1.jpeg" />
+    <None Include="Resources\hhhhhhhhhhhgfc1.jpg" />
+    <None Include="Resources\uuuuuuuuu.jpeg" />
+    <None Include="Resources\22222222222.jpeg" />
+    <None Include="Resources\hhhhhhhhhhhgfc.jpg" />
+    <None Include="Resources\dddddddddddd1.jpeg" />
+    <None Include="Resources\vvvvvvvvvvvv1.jpeg" />
+    <None Include="Resources\ggggggggggg.gif" />
+    <None Include="Resources\vvvvvvvvvvvv.jpeg" />
+    <None Include="Resources\purple-flowers.jpg" />
+    <None Include="Resources\gggggggggggrf.jpg" />
+    <None Include="Resources\ar.jpeg" />
+    <None Include="Resources\dddddddddddd.jpeg" />
+    <None Include="Database1DataSet1.xsc">
+      <DependentUpon>Database1DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Database1DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Database1DataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Database1DataSet1.xss">
+      <DependentUpon>Database1DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="departmentDataSet.xsc">
+      <DependentUpon>departmentDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="departmentDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>departmentDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="departmentDataSet.xss">
+      <DependentUpon>departmentDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="depDataSet.xsc">
+      <DependentUpon>depDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="depDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>depDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="depDataSet.xss">
+      <DependentUpon>depDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="holidayDataSet.xsc">
+      <DependentUpon>holidayDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="holidayDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>holidayDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="holidayDataSet.xss">
+      <DependentUpon>holidayDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\Me.jpg" />
+    <None Include="R_attenanceDataSet.xsc">
+      <DependentUpon>R_attenanceDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="R_attenanceDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>R_attenanceDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="R_attenanceDataSet.xss">
+      <DependentUpon>R_attenanceDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="SalaryDataSet.xsc">
+      <DependentUpon>SalaryDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="SalaryDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SalaryDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SalaryDataSet.xss">
+      <DependentUpon>SalaryDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="scaleDataSet.xsc">
+      <DependentUpon>scaleDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="scaleDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>scaleDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="scaleDataSet.xss">
+      <DependentUpon>scaleDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="workingDataSet.xsc">
+      <DependentUpon>workingDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="workingDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>workingDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="workingDataSet.xss">
+      <DependentUpon>workingDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="workingDataSet1.xsc">
+      <DependentUpon>workingDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="workingDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>workingDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="workingDataSet1.xss">
+      <DependentUpon>workingDataSet1.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.9.2">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2005 Express Edition SP2 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
